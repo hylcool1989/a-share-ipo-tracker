@@ -66,7 +66,7 @@ def bulk_snapshot():
     return out
 
 def single_cap(stock_code):
-    df=ak.stock_individual_info_em(symbol=stock_code,timeout=8)
+    df=ak.stock_individual_info_em(symbol=stock_code)
     if df is None or df.empty or not {"item","value"}.issubset(df.columns): return None
     values=dict(zip(df["item"],df["value"]))
     returned=code_of(values.get("股票代码"))
@@ -74,7 +74,7 @@ def single_cap(stock_code):
     return cap_yi(values.get("总市值"))
 
 def tencent_symbol(code):
-    if code.startswith(("6", "5", "9")):
+    if code.startswith(("6", "5")):
         return "sh" + code
     if code.startswith(("0", "2", "3")):
         return "sz" + code
