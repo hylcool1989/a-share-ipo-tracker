@@ -96,7 +96,7 @@ def tencent_snapshot(codes):
             resp.raise_for_status()
             resp.encoding = "gbk"
             for raw in resp.text.split(";"):
-                match = re.search(r'v_(?:sh|sz|bj)(\\d{6})="([^"]+)"', raw)
+                match = re.search(r'v_(?:sh|sz|bj)(\d{6})="([^"]+)"', raw)
                 if not match:
                     continue
                 code, payload = match.groups()
@@ -116,7 +116,7 @@ def tencent_snapshot(codes):
                     continue
                 snapshot_date = ASOF
                 stamp = fields[30].strip() if len(fields)>30 else ""
-                if re.fullmatch(r"\\d{14}", stamp):
+                if re.fullmatch(r"\d{14}", stamp):
                     snapshot_date = f"{stamp[:4]}-{stamp[4:6]}-{stamp[6:8]}"
                 caps[code] = {CAP: round(cap, 4), CAP_DATE: snapshot_date, CAP_SOURCE: TENCENT}
         except requests.RequestException as exc:
