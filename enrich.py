@@ -137,25 +137,31 @@ def main():
                          ("20260930", ("revenue_2026_9m_100m", "net_profit_2026_9m_100m"))):
         if valid_fresh(finance_info.get(period, ""), 10):
             continue
-        try:
-            print("Fetching financial period", period, flush=True)
-            snapshot = financial_snapshot(period)
-            if len(snapshot) < 500:
-                raise RuntimeError(f"Unusually small financial dataset: {len(snapshot)}")
-            for c, v in snapshot.items():
-                entry = finance.setdefault(c, {})
-                if v["revenue"] != "":
-                    entry[keys[0]] = v["revenue"]
-                if v["net_profit"] != "":
-                    entry[keys[1]] = v["net_profit"]
-                entry["financial_source_url"] = SOURCE_FIN + period[:6] + "/yjbb.html"
-                entry["financial_updated"] = ASOF
-            finance_info[period] = ASOF
-            save_json(DATA / "company_financials.json", finance)
-            save_json(DATA / "financial_source_status.json", finance_info)
-            print(period, "financial records:", len(snapshot), flush=True)
-        except Exception as e:
-            logging.exception("Financial snapshot %s failed: %s", period, e)
+        for attempt in range(1, 4):
+            try:
+                print("Fetching financial period", period, "attempt", attempt, flush=True)
+                snapshot = financial_snapshot(period)
+                if len(snapshot) < 500:
+                    raise RuntimeError(f"Unusually small financial dataset: {len(snapshot)}")
+                for c, v in snapshot.items():
+                    entry = finance.setdefault(c, {})
+                    if v["revenue"] != "":
+                        entry[keys[0]] = v["revenue"]
+                    if v["net_profit"] != "":
+                        entry[keys[1]] = v["net_profit"]
+                    entry["financial_source_url"] = SOURCE_FIN + period[:6] + "/yjbb.html"
+                    entry["financial_updated"] = ASOF
+                finance_info[period] = ASOF
+                save_json(DATA / "company_financials.json", finance)
+                save_json(DATA / "financial_source_status.json", finance_info)
+                print(period, "financial records:", len(snapshot), flush=True)
+                break
+            except Exception as e:
+                if attempt < 3:
+                    logging.warning("Financial %s attempt %s failed: %s", period, attempt, e)
+                    time.sleep(attempt * 6)
+                else:
+                    logging.exception("Financial snapshot %s failed after retries: %s", period, e)
     covered = 0
     financial_covered = 0
     for row in rows:
@@ -180,7 +186,7 @@ def main():
     payload["rows"] = rows
     payload.setdefault("summary", {})["enrichment"] = {
         "business_covered": covered, "financial_covered": financial_covered,
-        "listed_or_issued": len(listings), "description_pending": len(pending),
+        "listed_or_issued": len(listings), "description_pending": sum(1 for c in wanted if not clean(profiles.get(c, {}).get("business_summary"))),
         "notes": "Listed-company profiles from CNINFO; annual FY2025 and 2026 9M values from Eastmoney earnings reports. IPO application prospectus profiles not yet automated."
     }
     save_json(WEB / "ipo_data.json", payload)
