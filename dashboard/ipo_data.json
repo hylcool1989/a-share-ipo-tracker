@@ -23,9 +23,9 @@
     },
     "enrichment": {
       "business_covered": 271,
-      "financial_covered": 270,
+      "financial_covered": 271,
       "listed_or_issued": 271,
-      "description_pending": 271,
+      "description_pending": 0,
       "notes": "Listed-company profiles from CNINFO; annual FY2025 and 2026 9M values from Eastmoney earnings reports. IPO application prospectus profiles not yet automated."
     }
   },
@@ -7479,11 +7479,11 @@
       "business_summary": "可编程逻辑控制器（PLC）研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 3.1769,
+      "net_profit_2025_100m": 1.1844,
       "revenue_2026_9m_100m": 2.4204,
       "net_profit_2026_9m_100m": 0.8049,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -7511,11 +7511,11 @@
       "business_summary": "以自动化立体仓库为核心的智能物流系统的研发、设计、生产、销售及服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 10.0038,
+      "net_profit_2025_100m": 1.1871,
       "revenue_2026_9m_100m": 7.4848,
       "net_profit_2026_9m_100m": 0.7496,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -7543,11 +7543,11 @@
       "business_summary": "含乳饮料及乳制品的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 16.939,
+      "net_profit_2025_100m": 2.9093,
       "revenue_2026_9m_100m": 14.5523,
       "net_profit_2026_9m_100m": 2.8127,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -14711,11 +14711,11 @@
       "business_summary": "印制电路板研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 11.7988,
+      "net_profit_2025_100m": 1.2471,
       "revenue_2026_9m_100m": 10.4529,
       "net_profit_2026_9m_100m": 0.9657,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -14743,11 +14743,11 @@
       "business_summary": "汽车维修、检测、保养设备的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 11.2033,
+      "net_profit_2025_100m": 1.463,
       "revenue_2026_9m_100m": 8.5514,
       "net_profit_2026_9m_100m": 0.8698,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -14775,11 +14775,11 @@
       "business_summary": "医疗器械直销及分销业务，并为终端医院提供医用耗材集约化运营(SPD)等服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 194.3,
+      "net_profit_2025_100m": 2.6963,
       "revenue_2026_9m_100m": 152.833,
       "net_profit_2026_9m_100m": 2.5275,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -14807,11 +14807,11 @@
       "business_summary": "以汽车天窗为主要产品的汽车运动部件。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 22.8033,
+      "net_profit_2025_100m": 1.7304,
       "revenue_2026_9m_100m": 14.5005,
       "net_profit_2026_9m_100m": 0.9613,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -14839,11 +14839,11 @@
       "business_summary": "云端AI芯片及其相关产品的研发、设计和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 9.9016,
+      "net_profit_2025_100m": -11.6388,
       "revenue_2026_9m_100m": 23.3219,
       "net_profit_2026_9m_100m": -7.5401,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -14871,11 +14871,11 @@
       "business_summary": "化妆品功效原料的研发、生产及销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 2.6266,
+      "net_profit_2025_100m": 0.6627,
       "revenue_2026_9m_100m": 2.2152,
       "net_profit_2026_9m_100m": 0.5309,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -14903,11 +14903,11 @@
       "business_summary": "精准激光器的研发、生产与销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 4.1792,
+      "net_profit_2025_100m": 1.5944,
       "revenue_2026_9m_100m": 3.837,
       "net_profit_2026_9m_100m": 1.1196,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -14935,11 +14935,11 @@
       "business_summary": "汽车燃料系统的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 6.6711,
+      "net_profit_2025_100m": 0.6887,
       "revenue_2026_9m_100m": 4.1987,
       "net_profit_2026_9m_100m": 0.4829,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -14967,11 +14967,11 @@
       "business_summary": "提供包括运输服务、仓储及管理服务、关务服务在内的全方位、一体化综合物流服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 8.5837,
+      "net_profit_2025_100m": 1.3927,
       "revenue_2026_9m_100m": 5.3243,
       "net_profit_2026_9m_100m": 0.848,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -14999,11 +14999,11 @@
       "business_summary": "精密零部件的研发设计、制造和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 7.5726,
+      "net_profit_2025_100m": 1.8691,
       "revenue_2026_9m_100m": 7.0498,
       "net_profit_2026_9m_100m": 1.8634,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -15031,11 +15031,11 @@
       "business_summary": "电动叉车等机动工业车辆研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 72.5359,
+      "net_profit_2025_100m": 8.5861,
       "revenue_2026_9m_100m": 61.4683,
       "net_profit_2026_9m_100m": 6.3706,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -15063,11 +15063,11 @@
       "business_summary": "境内外有色金属采矿、选矿、冶炼、加工产业链客户提供包括工程设计咨询、工程总承包、装备集成等在内的工程技术服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 19.674,
+      "net_profit_2025_100m": 1.6133,
       "revenue_2026_9m_100m": 10.7499,
       "net_profit_2026_9m_100m": 1.0661,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -15095,11 +15095,11 @@
       "business_summary": "天然铀资源的采冶、销售及贸易，以及独居石、铀钼等放射性共伴生矿产资源综合利用及产品销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 198.9403,
+      "net_profit_2025_100m": 16.4544,
       "revenue_2026_9m_100m": 157.985,
       "net_profit_2026_9m_100m": 14.3852,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -15127,11 +15127,11 @@
       "business_summary": "改性工程塑料的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 7.4948,
+      "net_profit_2025_100m": 1.2686,
       "revenue_2026_9m_100m": 7.3695,
       "net_profit_2026_9m_100m": 0.8869,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -15159,11 +15159,11 @@
       "business_summary": "电子测量仪器研发、制造和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 23.9837,
+      "net_profit_2025_100m": 4.3821,
       "revenue_2026_9m_100m": 15.8879,
       "net_profit_2026_9m_100m": 2.7773,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -15191,11 +15191,11 @@
       "business_summary": "电能源产品及系统的研发、生产、销售及服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 32.8647,
+      "net_profit_2025_100m": 3.2706,
       "revenue_2026_9m_100m": 22.8446,
       "net_profit_2026_9m_100m": 1.3235,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -15223,11 +15223,11 @@
       "business_summary": "干式真空泵和真空科学仪器设备的研发、生产、销售，及相关技术服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 12.9121,
+      "net_profit_2025_100m": 8.4387,
       "revenue_2026_9m_100m": 10.1851,
       "net_profit_2026_9m_100m": 12.6217,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -15255,11 +15255,11 @@
       "business_summary": "航天测控管理与航天数字仿真。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 3.2124,
+      "net_profit_2025_100m": 1.0083,
       "revenue_2026_9m_100m": 1.3955,
       "net_profit_2026_9m_100m": 0.2416,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -15287,11 +15287,11 @@
       "business_summary": "全钢胎、半钢胎、斜交胎和车胎等轮胎产品的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 449.5623,
+      "net_profit_2025_100m": 41.4747,
       "revenue_2026_9m_100m": 360.7895,
       "net_profit_2026_9m_100m": 28.5376,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -15319,11 +15319,11 @@
       "business_summary": "工程造价、招标代理、工程监理及管理、BIM服务、工程设计等专业技术服务及全过程咨询服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 3.6949,
+      "net_profit_2025_100m": 1.0149,
       "revenue_2026_9m_100m": 2.2599,
       "net_profit_2026_9m_100m": 0.5971,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -15351,11 +15351,11 @@
       "business_summary": "工业机器人控制系统及部件、伺服系统及部件的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 3.1839,
+      "net_profit_2025_100m": 0.5905,
       "revenue_2026_9m_100m": 2.5673,
       "net_profit_2026_9m_100m": 0.4475,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -15383,11 +15383,11 @@
       "business_summary": "侵袭性真菌病血清学早期诊断及其它病原微生物体外诊断产品的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 2.4228,
+      "net_profit_2025_100m": 0.9774,
       "revenue_2026_9m_100m": 1.8738,
       "net_profit_2026_9m_100m": 0.7284,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -15415,11 +15415,11 @@
       "business_summary": "汽车饰件的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 31.7125,
+      "net_profit_2025_100m": 4.2688,
       "revenue_2026_9m_100m": 21.604,
       "net_profit_2026_9m_100m": 3.0969,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -15447,11 +15447,11 @@
       "business_summary": "电子元器件分销与产业互联网融合发展。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 32.3766,
+      "net_profit_2025_100m": 0.9888,
       "revenue_2026_9m_100m": 45.2456,
       "net_profit_2026_9m_100m": 3.5298,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -15479,11 +15479,11 @@
       "business_summary": "人造板生产线和配套设备的研发、生产、销售和服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 8.0067,
+      "net_profit_2025_100m": 1.8703,
       "revenue_2026_9m_100m": 6.7552,
       "net_profit_2026_9m_100m": 1.8614,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -15511,11 +15511,11 @@
       "business_summary": "轨道交通智能产品及装备的研发、生产、销售，并提供专业技术服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 3.6391,
+      "net_profit_2025_100m": 0.4424,
       "revenue_2026_9m_100m": 2.033,
       "net_profit_2026_9m_100m": 0.1179,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -15543,11 +15543,11 @@
       "business_summary": "汽车热管理系统精密加工零部件的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 10.6375,
+      "net_profit_2025_100m": 0.6299,
       "revenue_2026_9m_100m": 8.7804,
       "net_profit_2026_9m_100m": 0.19,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -15575,11 +15575,11 @@
       "business_summary": "光通信前端收发电芯片的研发、设计与销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 4.8613,
+      "net_profit_2025_100m": 0.8813,
       "revenue_2026_9m_100m": 4.5581,
       "net_profit_2026_9m_100m": 0.9414,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -15607,11 +15607,11 @@
       "business_summary": "EMMS的研发、制造、测试、销售和服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 11.0728,
+      "net_profit_2025_100m": 4.4038,
       "revenue_2026_9m_100m": 4.249,
       "net_profit_2026_9m_100m": 0.9111,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -15639,11 +15639,11 @@
       "business_summary": "橡胶履带类产品的研发、生产、销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 14.3157,
+      "net_profit_2025_100m": 1.578,
       "revenue_2026_9m_100m": 11.3689,
       "net_profit_2026_9m_100m": 0.6916,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -15671,11 +15671,11 @@
       "business_summary": "半导体刻蚀和薄膜沉积设备细分领域关键零部件的精密制造。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 12.3773,
+      "net_profit_2025_100m": 1.889,
       "revenue_2026_9m_100m": 11.6242,
       "net_profit_2026_9m_100m": 1.0467,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -15703,11 +15703,11 @@
       "business_summary": "湿电子化学品的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 14.7498,
+      "net_profit_2025_100m": 2.0682,
       "revenue_2026_9m_100m": 15.789,
       "net_profit_2026_9m_100m": 1.7843,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -15735,11 +15735,11 @@
       "business_summary": "新型肥料及新型肥料中间体的研发、生产、销售和技术服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 23.4974,
+      "net_profit_2025_100m": 1.4238,
       "revenue_2026_9m_100m": 20.5205,
       "net_profit_2026_9m_100m": 1.0658,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -15767,11 +15767,11 @@
       "business_summary": "电子封装材料及高性能改性塑料等高分子新材料产品研发、生产、销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 4.6932,
+      "net_profit_2025_100m": 0.8533,
       "revenue_2026_9m_100m": 4.2667,
       "net_profit_2026_9m_100m": 0.7249,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -15799,11 +15799,11 @@
       "business_summary": "射频前端芯片、射频SoC芯片及其他模拟芯片的研发、设计与销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 18.824,
+      "net_profit_2025_100m": -1.1909,
       "revenue_2026_9m_100m": 12.5531,
       "net_profit_2026_9m_100m": -0.524,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -15831,11 +15831,11 @@
       "business_summary": "智能配电设备的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 8.954,
+      "net_profit_2025_100m": 1.0501,
       "revenue_2026_9m_100m": 6.4171,
       "net_profit_2026_9m_100m": 0.4714,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -15863,11 +15863,11 @@
       "business_summary": "电化学储能系统的研发、生产、销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 116.1199,
+      "net_profit_2025_100m": 9.512,
       "revenue_2026_9m_100m": 114.3437,
       "net_profit_2026_9m_100m": 11.5589,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -15895,11 +15895,11 @@
       "business_summary": "硬连接、柔性连接、触头组件、叠层母排和CCS等系列化电连接产品以及同步分解器等产品的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 31.2621,
+      "net_profit_2025_100m": 3.0118,
       "revenue_2026_9m_100m": 28.8064,
       "net_profit_2026_9m_100m": 2.4915,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -15927,11 +15927,11 @@
       "business_summary": "检验检测业务以及检测仪器的研发、生产、销售和技术服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 1.8739,
+      "net_profit_2025_100m": 0.7722,
       "revenue_2026_9m_100m": 1.5762,
       "net_profit_2026_9m_100m": 0.74,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -15959,11 +15959,11 @@
       "business_summary": "精密冲压领域产品的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 15.8045,
+      "net_profit_2025_100m": 1.6537,
       "revenue_2026_9m_100m": 11.6227,
       "net_profit_2026_9m_100m": 0.9637,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -15991,11 +15991,11 @@
       "business_summary": "投资、开发、运营和管理风力、太阳能发电站。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 229.0905,
+      "net_profit_2025_100m": 61.0181,
       "revenue_2026_9m_100m": 186.2747,
       "net_profit_2026_9m_100m": 46.7387,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -16023,11 +16023,11 @@
       "business_summary": "风力发电、太阳能发电为主的新能源项目的开发、投资和运营。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 389.8039,
+      "net_profit_2025_100m": 72.6287,
       "revenue_2026_9m_100m": 325.1885,
       "net_profit_2026_9m_100m": 49.8383,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -16055,11 +16055,11 @@
       "business_summary": "无人机电动动力系统及机器人动力系统的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 10.7469,
+      "net_profit_2025_100m": 4.2137,
       "revenue_2026_9m_100m": 12.4653,
       "net_profit_2026_9m_100m": 4.5941,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -16087,11 +16087,11 @@
       "business_summary": "精密机械零部件的研发、生产及销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 10.9439,
+      "net_profit_2025_100m": 0.9923,
       "revenue_2026_9m_100m": 7.6953,
       "net_profit_2026_9m_100m": 0.4332,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -16119,11 +16119,11 @@
       "business_summary": "为电力能源等行业客户提供数字化建设综合解决方案。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 72.1733,
+      "net_profit_2025_100m": 6.298,
       "revenue_2026_9m_100m": 34.6143,
       "net_profit_2026_9m_100m": 2.8043,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -16151,11 +16151,11 @@
       "business_summary": "复杂药物制剂的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 8.9547,
+      "net_profit_2025_100m": 2.2782,
       "revenue_2026_9m_100m": 7.4695,
       "net_profit_2026_9m_100m": 2.2641,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -16183,11 +16183,11 @@
       "business_summary": "伺服液压测试设备和汽车测试试验设备的研发、设计、制造、销售、系统集成等综合服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 5.6263,
+      "net_profit_2025_100m": 1.2062,
       "revenue_2026_9m_100m": 4.3584,
       "net_profit_2026_9m_100m": 1.0608,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -16215,11 +16215,11 @@
       "business_summary": "精细化学品研发、生产、销售及资源综合利用。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 14.6467,
+      "net_profit_2025_100m": 1.7229,
       "revenue_2026_9m_100m": 11.5582,
       "net_profit_2026_9m_100m": 1.3239,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -16247,11 +16247,11 @@
       "business_summary": "光刻材料和前驱体材料的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 6.5888,
+      "net_profit_2025_100m": 0.9779,
       "revenue_2026_9m_100m": 5.5748,
       "net_profit_2026_9m_100m": 1.0047,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -16279,11 +16279,11 @@
       "business_summary": "铝合金汽车零部件的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 49.8164,
+      "net_profit_2025_100m": 4.9028,
       "revenue_2026_9m_100m": 33.9181,
       "net_profit_2026_9m_100m": 3.6561,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -16311,11 +16311,11 @@
       "business_summary": "聚乙烯醇、特种纤维、醋酸乙烯、电石等PVA产业链上下游产品的研发、生产、销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 35.8482,
+      "net_profit_2025_100m": 5.3619,
       "revenue_2026_9m_100m": 31.8947,
       "net_profit_2026_9m_100m": 3.5444,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -16343,11 +16343,11 @@
       "business_summary": "研发、生产和销售纸制与塑料餐饮具。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 18.4487,
+      "net_profit_2025_100m": 2.2384,
       "revenue_2026_9m_100m": 14.5454,
       "net_profit_2026_9m_100m": 0.9032,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -16375,11 +16375,11 @@
       "business_summary": "汽车造型部件和汽车声学产品的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 12.3508,
+      "net_profit_2025_100m": 1.4739,
       "revenue_2026_9m_100m": 11.0456,
       "net_profit_2026_9m_100m": 1.1443,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -16407,11 +16407,11 @@
       "business_summary": "电子树脂的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 12.0281,
+      "net_profit_2025_100m": 1.2731,
       "revenue_2026_9m_100m": 12.7581,
       "net_profit_2026_9m_100m": 2.1786,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -16439,11 +16439,11 @@
       "business_summary": "工业精密清洗领域专用智能装备生产商。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 2.3883,
+      "net_profit_2025_100m": 0.382,
       "revenue_2026_9m_100m": 0.8722,
       "net_profit_2026_9m_100m": -0.1715,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -16471,11 +16471,11 @@
       "business_summary": "新能源汽车动力电池热失控防护零部件及电力电工绝缘产品的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 11.0579,
+      "net_profit_2025_100m": 1.7915,
       "revenue_2026_9m_100m": 13.6946,
       "net_profit_2026_9m_100m": 1.7533,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -16503,11 +16503,11 @@
       "business_summary": "高端科学仪器的研发、生产与销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 6.6619,
+      "net_profit_2025_100m": -0.058,
       "revenue_2026_9m_100m": 4.0443,
       "net_profit_2026_9m_100m": -1.4643,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -16535,11 +16535,11 @@
       "business_summary": "主要从事包括航空货运服务、航空货站服务、综合物流解决方案在内的航空物流服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 228.7808,
+      "net_profit_2025_100m": 25.8469,
       "revenue_2026_9m_100m": 190.147,
       "net_profit_2026_9m_100m": 14.7172,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -16567,11 +16567,11 @@
       "business_summary": "电连接组件研发、设计、生产、销售、服务于一体的产品及解决方案提供商。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 51.4896,
+      "net_profit_2025_100m": 2.9347,
       "revenue_2026_9m_100m": 45.8404,
       "net_profit_2026_9m_100m": 1.8957,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -16599,11 +16599,11 @@
       "business_summary": "汽车车身电子电器控制系统设计、开发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 31.0648,
+      "net_profit_2025_100m": 2.4786,
       "revenue_2026_9m_100m": 18.0942,
       "net_profit_2026_9m_100m": 0.5961,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -16631,11 +16631,11 @@
       "business_summary": "智能制造装备的研发、设计、制造和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 13.6881,
+      "net_profit_2025_100m": 2.7134,
       "revenue_2026_9m_100m": 13.1128,
       "net_profit_2026_9m_100m": 2.3272,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -16663,11 +16663,11 @@
       "business_summary": "汽车热管理系统零部件、汽车声学部件等的研发、生产与销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 19.611,
+      "net_profit_2025_100m": 3.5089,
       "revenue_2026_9m_100m": 14.4805,
       "net_profit_2026_9m_100m": 2.3678,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -16695,11 +16695,11 @@
       "business_summary": "烧结钕铁硼、烧结钐钴等高性能稀土永磁材料研发、生产、销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 23.4456,
+      "net_profit_2025_100m": 1.6116,
       "revenue_2026_9m_100m": 20.2409,
       "net_profit_2026_9m_100m": 1.7045,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -16727,11 +16727,11 @@
       "business_summary": "钛及钛合金材料的研发、生产与销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 6.31,
+      "net_profit_2025_100m": 1.3994,
       "revenue_2026_9m_100m": 3.7234,
       "net_profit_2026_9m_100m": 0.3047,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -16759,11 +16759,11 @@
       "business_summary": "自行车、电助力自行车、共享单车等产品及其关键零部件的研发、设计、生产与销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 50.6083,
+      "net_profit_2025_100m": 3.8206,
       "revenue_2026_9m_100m": 45.7344,
       "net_profit_2026_9m_100m": 2.8007,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -16791,11 +16791,11 @@
       "business_summary": "汽车线束、汽车连接器、汽车电子等汽车零部件产品的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 159.6883,
+      "net_profit_2025_100m": 6.4129,
       "revenue_2026_9m_100m": 123.5407,
       "net_profit_2026_9m_100m": 3.9181,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -16823,11 +16823,11 @@
       "business_summary": "智能生产设备及生产线的研发、设计、生产、销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 3.9403,
+      "net_profit_2025_100m": 0.7457,
       "revenue_2026_9m_100m": 3.1987,
       "net_profit_2026_9m_100m": 0.6027,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -16855,11 +16855,11 @@
       "business_summary": "预灌封给药系统及自动安全给药系统等医药包材、血液净化领域医用制品研发、生产与销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 37.6872,
+      "net_profit_2025_100m": 4.823,
       "revenue_2026_9m_100m": 43.6785,
       "net_profit_2026_9m_100m": 8.6381,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -16887,11 +16887,11 @@
       "business_summary": "医用磁共振成像（MRI）设备核心部件的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 5.7925,
+      "net_profit_2025_100m": 0.7508,
       "revenue_2026_9m_100m": 5.3395,
       "net_profit_2026_9m_100m": 0.8011,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -16919,11 +16919,11 @@
       "business_summary": "镍产品贸易、镍产品生产与销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 402.5524,
+      "net_profit_2025_100m": 28.6226,
       "revenue_2026_9m_100m": 374.9278,
       "net_profit_2026_9m_100m": 33.2011,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -16951,11 +16951,11 @@
       "business_summary": "高分子助剂及功能高分子材料的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 5.9763,
+      "net_profit_2025_100m": 0.5503,
       "revenue_2026_9m_100m": 4.5235,
       "net_profit_2026_9m_100m": 0.1939,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -16983,11 +16983,11 @@
       "business_summary": "高性能通用人形机器人、四足机器人、机器人组件及具身智能模型的研发、生产和销售业务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 16.9927,
+      "net_profit_2025_100m": 2.7821,
       "revenue_2026_9m_100m": 18.1729,
       "net_profit_2026_9m_100m": 3.8669,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -17015,11 +17015,11 @@
       "business_summary": "高规格羽绒产品的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 10.535,
+      "net_profit_2025_100m": 1.783,
       "revenue_2026_9m_100m": 7.8603,
       "net_profit_2026_9m_100m": 1.2966,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -17047,11 +17047,11 @@
       "business_summary": "汽车铝合金精密压铸件的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 10.1535,
+      "net_profit_2025_100m": 0.6954,
       "revenue_2026_9m_100m": 8.3976,
       "net_profit_2026_9m_100m": 0.5582,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -17079,11 +17079,11 @@
       "business_summary": "粉料、粒料、液料、浆料等散装物料的自动化处理产线及设备的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 20.3151,
+      "net_profit_2025_100m": 0.5988,
       "revenue_2026_9m_100m": 11.8635,
       "net_profit_2026_9m_100m": 0.5954,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -17111,11 +17111,11 @@
       "business_summary": "电磁线的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 27.0273,
+      "net_profit_2025_100m": 1.0637,
       "revenue_2026_9m_100m": 27.1968,
       "net_profit_2026_9m_100m": 1.004,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -17143,11 +17143,11 @@
       "business_summary": "塑料餐饮具及生物降解材料餐饮具研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 20.4612,
+      "net_profit_2025_100m": 0.9152,
       "revenue_2026_9m_100m": 18.8685,
       "net_profit_2026_9m_100m": 0.5382,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -17175,11 +17175,11 @@
       "business_summary": "高可靠模拟芯片及微模块产品的研发设计、测试及销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 6.3918,
+      "net_profit_2025_100m": 2.2812,
       "revenue_2026_9m_100m": 4.1101,
       "net_profit_2026_9m_100m": 1.4279,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -17207,11 +17207,11 @@
       "business_summary": "通过工业物联网智能终端及系统解决方案解决客户在运行维护环节的综合性智能化运维需求。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 10.5215,
+      "net_profit_2025_100m": 1.3703,
       "revenue_2026_9m_100m": 6.6091,
       "net_profit_2026_9m_100m": 0.2544,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -17239,11 +17239,11 @@
       "business_summary": "电网智能监测领域和新能源领域相关产品的研发、制造、销售和服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 7.0713,
+      "net_profit_2025_100m": 1.3764,
       "revenue_2026_9m_100m": 4.6659,
       "net_profit_2026_9m_100m": 0.7666,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -17271,11 +17271,11 @@
       "business_summary": "集成电路制造过程中所需晶圆加工设备的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 50.7632,
+      "net_profit_2025_100m": 6.7078,
       "revenue_2026_9m_100m": 35.8323,
       "net_profit_2026_9m_100m": 10.7272,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -17303,11 +17303,11 @@
       "business_summary": "高分子复合材料制品、轻量化夹芯材料制品的研发、生产与销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 11.7826,
+      "net_profit_2025_100m": 0.889,
       "revenue_2026_9m_100m": 9.0817,
       "net_profit_2026_9m_100m": 0.3886,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -17335,11 +17335,11 @@
       "business_summary": "控制类电机的研发、制造、销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 5.508,
+      "net_profit_2025_100m": 0.604,
       "revenue_2026_9m_100m": 5.3973,
       "net_profit_2026_9m_100m": 0.3022,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -17367,11 +17367,11 @@
       "business_summary": "微纳米高端复合材料制备设备及自动化生产线的研发、生产、销售和服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 6.3434,
+      "net_profit_2025_100m": 1.1815,
       "revenue_2026_9m_100m": 4.8023,
       "net_profit_2026_9m_100m": 0.7426,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -17399,11 +17399,11 @@
       "business_summary": "生物医用材料等产品研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 2.8387,
+      "net_profit_2025_100m": 0.7634,
       "revenue_2026_9m_100m": 2.4543,
       "net_profit_2026_9m_100m": 0.6237,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -17431,11 +17431,11 @@
       "business_summary": "汽车照明系统、电子控制系统、能源管理系统等汽车电子零部件的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 7.1674,
+      "net_profit_2025_100m": 0.8005,
       "revenue_2026_9m_100m": 4.0494,
       "net_profit_2026_9m_100m": 0.2635,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -17463,11 +17463,11 @@
       "business_summary": "纳米砂磨机等智能装备及其关键部件的研发、设计、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 6.1562,
+      "net_profit_2025_100m": 0.8042,
       "revenue_2026_9m_100m": 4.5117,
       "net_profit_2026_9m_100m": 0.5955,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -17495,11 +17495,11 @@
       "business_summary": "真空收纳、壁挂置物、气调保鲜、户外装备、安全防护等多品类家居收纳用品及相关功能材料的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 10.4366,
+      "net_profit_2025_100m": 0.6145,
       "revenue_2026_9m_100m": 10.4396,
       "net_profit_2026_9m_100m": 0.2349,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -17527,11 +17527,11 @@
       "business_summary": "建设工程领域的检验检测技术服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 12.5084,
+      "net_profit_2025_100m": 1.1622,
       "revenue_2026_9m_100m": 6.7576,
       "net_profit_2026_9m_100m": -0.0006,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -17559,11 +17559,11 @@
       "business_summary": "光学镜头及摄像模组产品的研发、设计、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 16.9177,
+      "net_profit_2025_100m": 1.928,
       "revenue_2026_9m_100m": 12.8368,
       "net_profit_2026_9m_100m": 0.9287,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -17591,11 +17591,11 @@
       "business_summary": "功能性粉体的生产、研发和销售",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 5.3365,
+      "net_profit_2025_100m": 0.5748,
       "revenue_2026_9m_100m": 4.398,
       "net_profit_2026_9m_100m": 0.5243,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -17623,11 +17623,11 @@
       "business_summary": "全直驱数控机床及数控系统类产品的研发、生产及销售业务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 4.0899,
+      "net_profit_2025_100m": 0.7648,
       "revenue_2026_9m_100m": 3.5974,
       "net_profit_2026_9m_100m": 0.7469,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -17656,10 +17656,10 @@
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
       "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "net_profit_2025_100m": -1.5402,
       "revenue_2026_9m_100m": 0.0,
       "net_profit_2026_9m_100m": -1.5108,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -17687,11 +17687,11 @@
       "business_summary": "公司主要从事功能性树脂和功能性涂层材料的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 9.8518,
+      "net_profit_2025_100m": 2.0679,
       "revenue_2026_9m_100m": 8.9916,
       "net_profit_2026_9m_100m": 1.7175,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -17719,11 +17719,11 @@
       "business_summary": "机动车主动安全系统和铝合金精密压铸件的研发、生产和销售以及技术服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 23.9275,
+      "net_profit_2025_100m": 3.3303,
       "revenue_2026_9m_100m": 21.5743,
       "net_profit_2026_9m_100m": 3.035,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -17751,11 +17751,11 @@
       "business_summary": "肿瘤放射治疗中的放疗定位装置以及康复治疗中康复辅助器械的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 3.1527,
+      "net_profit_2025_100m": 0.6404,
       "revenue_2026_9m_100m": 2.6427,
       "net_profit_2026_9m_100m": 0.4867,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -17783,11 +17783,11 @@
       "business_summary": "自主型号系列宽带连接终端设备的设计、研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 16.4649,
+      "net_profit_2025_100m": 0.9537,
       "revenue_2026_9m_100m": 16.2385,
       "net_profit_2026_9m_100m": 1.1834,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -17815,11 +17815,11 @@
       "business_summary": "汽车座椅、汽车内外饰件研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 37.4345,
+      "net_profit_2025_100m": 1.3052,
       "revenue_2026_9m_100m": 26.1611,
       "net_profit_2026_9m_100m": 0.5286,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -17847,11 +17847,11 @@
       "business_summary": "探针卡的研发、设计、生产与销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 10.121,
+      "net_profit_2025_100m": 3.9492,
       "revenue_2026_9m_100m": 10.5521,
       "net_profit_2026_9m_100m": 3.7246,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -17879,11 +17879,11 @@
       "business_summary": "高性能有机颜料中间体、食品添加剂中间体及光稳定剂中间体的研发、生产及销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 5.0668,
+      "net_profit_2025_100m": 1.4635,
       "revenue_2026_9m_100m": 4.1733,
       "net_profit_2026_9m_100m": 0.9043,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -17911,11 +17911,11 @@
       "business_summary": "全景相机、运动相机等智能影像设备的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 97.4138,
+      "net_profit_2025_100m": 9.289,
       "revenue_2026_9m_100m": 94.3594,
       "net_profit_2026_9m_100m": 0.4784,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -17943,11 +17943,11 @@
       "business_summary": "高速重载精密齿轮传动产品的研发、生产与销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 54.2019,
+      "net_profit_2025_100m": 8.2737,
       "revenue_2026_9m_100m": 40.4005,
       "net_profit_2026_9m_100m": 6.3111,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -17975,11 +17975,11 @@
       "business_summary": "桥梁受力产品的研发、设计、制造、安装及技术服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 6.1624,
+      "net_profit_2025_100m": 0.6695,
       "revenue_2026_9m_100m": 4.4262,
       "net_profit_2026_9m_100m": 0.4807,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -18007,11 +18007,11 @@
       "business_summary": "三维视觉数字化产品及系统的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 3.7132,
+      "net_profit_2025_100m": 0.9589,
       "revenue_2026_9m_100m": 2.8279,
       "net_profit_2026_9m_100m": 0.2053,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -18039,11 +18039,11 @@
       "business_summary": "紫外光（UV）固化涂料和PUR热熔胶的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 8.1433,
+      "net_profit_2025_100m": 1.1112,
       "revenue_2026_9m_100m": 6.1567,
       "net_profit_2026_9m_100m": 0.7874,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -18071,11 +18071,11 @@
       "business_summary": "家居五金及户外家具等产品的研发、设计、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 35.9465,
+      "net_profit_2025_100m": 7.0351,
       "revenue_2026_9m_100m": 28.1062,
       "net_profit_2026_9m_100m": 5.0095,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -18103,11 +18103,11 @@
       "business_summary": "公司主要从事流体输送柔性管道的研发、生产和销售，包括海洋工程柔性管道、陆地油气柔性管道和工业专用软管三大系列橡胶软管产品。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 2.8861,
+      "net_profit_2025_100m": 0.9028,
       "revenue_2026_9m_100m": 2.4935,
       "net_profit_2026_9m_100m": 0.8391,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -18135,11 +18135,11 @@
       "business_summary": "制冷设备的研发、生产及销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 28.7734,
+      "net_profit_2025_100m": 3.9122,
       "revenue_2026_9m_100m": 23.4381,
       "net_profit_2026_9m_100m": 2.3841,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -18167,11 +18167,11 @@
       "business_summary": "为半导体显示面板等核心显示器件以及智能显示终端的研发、制造和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 408.9732,
+      "net_profit_2025_100m": 38.012,
       "revenue_2026_9m_100m": 311.1299,
       "net_profit_2026_9m_100m": 25.8986,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -18199,11 +18199,11 @@
       "business_summary": "高分子材料及双氧水生产领域的设备制造、设计咨询和工程总承包业务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 5.2026,
+      "net_profit_2025_100m": 0.7507,
       "revenue_2026_9m_100m": 1.8868,
       "net_profit_2026_9m_100m": -0.1409,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -18231,11 +18231,11 @@
       "business_summary": "以阻容元器件为主的新型电子元器件及精密零组件的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 26.1666,
+      "net_profit_2025_100m": 3.1872,
       "revenue_2026_9m_100m": 21.5498,
       "net_profit_2026_9m_100m": 2.1439,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -18263,11 +18263,11 @@
       "business_summary": "智能电、水、气表等智能计量终端以及AMI系统软件的研发、生产及销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 30.2048,
+      "net_profit_2025_100m": 7.0663,
       "revenue_2026_9m_100m": 18.9668,
       "net_profit_2026_9m_100m": 2.607,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -18295,11 +18295,11 @@
       "business_summary": "半导体及激光设备精密零部件的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 7.1985,
+      "net_profit_2025_100m": 0.9818,
       "revenue_2026_9m_100m": 5.9404,
       "net_profit_2026_9m_100m": 0.2076,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -18327,11 +18327,11 @@
       "business_summary": "差别化涤纶短纤维的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 35.0266,
+      "net_profit_2025_100m": 4.4189,
       "revenue_2026_9m_100m": 25.5337,
       "net_profit_2026_9m_100m": 3.6395,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -18359,11 +18359,11 @@
       "business_summary": "从事膳食营养补充产品研发创新及产业化的国际化企业集团。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 10.9305,
+      "net_profit_2025_100m": 1.3369,
       "revenue_2026_9m_100m": 7.9489,
       "net_profit_2026_9m_100m": 0.9854,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -18391,11 +18391,11 @@
       "business_summary": "锻造风电主轴和其他大型金属锻件的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 13.2714,
+      "net_profit_2025_100m": 1.4551,
       "revenue_2026_9m_100m": 10.6661,
       "net_profit_2026_9m_100m": 1.0519,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -18423,11 +18423,11 @@
       "business_summary": "清洁能源领域纤维增强材料研发、生产及销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 72.0238,
+      "net_profit_2025_100m": 7.3395,
       "revenue_2026_9m_100m": 58.9575,
       "net_profit_2026_9m_100m": 6.7113,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -18455,11 +18455,11 @@
       "business_summary": "GPU及相关产品的研发、设计和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 15.0553,
+      "net_profit_2025_100m": -10.0079,
       "revenue_2026_9m_100m": 32.8862,
       "net_profit_2026_9m_100m": 0.377,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -18487,11 +18487,11 @@
       "business_summary": "电线电缆研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 29.4717,
+      "net_profit_2025_100m": 1.0039,
       "revenue_2026_9m_100m": 24.7523,
       "net_profit_2026_9m_100m": 0.588,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -18519,11 +18519,11 @@
       "business_summary": "食品容器的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 10.5744,
+      "net_profit_2025_100m": 0.7616,
       "revenue_2026_9m_100m": 7.9497,
       "net_profit_2026_9m_100m": 0.026,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -18551,11 +18551,11 @@
       "business_summary": "智能卡业务、蚀刻引线框架业务以及物联网eSIM芯片封测业务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 9.2311,
+      "net_profit_2025_100m": 1.2612,
       "revenue_2026_9m_100m": 9.5991,
       "net_profit_2026_9m_100m": 0.845,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -18583,11 +18583,11 @@
       "business_summary": "工业阀门的设计、制造和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 7.2677,
+      "net_profit_2025_100m": 0.5745,
       "revenue_2026_9m_100m": 5.4063,
       "net_profit_2026_9m_100m": 0.2813,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -18615,11 +18615,11 @@
       "business_summary": "高性能热固性复合材料的研发、生产和销售，同时提供电子行业洁净室工程领域环氧工程材料及服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 4.3151,
+      "net_profit_2025_100m": 0.656,
       "revenue_2026_9m_100m": 3.9176,
       "net_profit_2026_9m_100m": 0.5927,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -18647,11 +18647,11 @@
       "business_summary": "专注于物料自动配料、分散乳化、混合搅拌等物料自动化处理领域，提供专业的物料智能处理系统整体解决方案。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 23.7283,
+      "net_profit_2025_100m": 2.7386,
       "revenue_2026_9m_100m": 17.3232,
       "net_profit_2026_9m_100m": 1.5511,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -18679,11 +18679,11 @@
       "business_summary": "自主品牌“HIFIMAN”终端电声产品的设计、研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 2.3942,
+      "net_profit_2025_100m": 0.7482,
       "revenue_2026_9m_100m": 1.8852,
       "net_profit_2026_9m_100m": 0.5096,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -18711,11 +18711,11 @@
       "business_summary": "智能自动化设备、智能柔性生产线、配件及耗材等产品的研发、生产与销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 6.643,
+      "net_profit_2025_100m": 0.6975,
       "revenue_2026_9m_100m": 5.4248,
       "net_profit_2026_9m_100m": 0.8983,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -18743,11 +18743,11 @@
       "business_summary": "炼铁高炉高效、长寿、节能、绿色、环保等技术与所需耐火材料的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 4.7766,
+      "net_profit_2025_100m": 0.9264,
       "revenue_2026_9m_100m": 3.5105,
       "net_profit_2026_9m_100m": 0.6265,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -18775,11 +18775,11 @@
       "business_summary": "汽车制造机器视觉设备的研发、生产及销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 4.4766,
+      "net_profit_2025_100m": 0.7846,
       "revenue_2026_9m_100m": 2.5203,
       "net_profit_2026_9m_100m": -0.012,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -18807,11 +18807,11 @@
       "business_summary": "软磁铁氧体磁粉的研发、生产和销售，并沿产业链发展软磁铁氧体磁心、电子元器件和电源等产品。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 11.5444,
+      "net_profit_2025_100m": 1.2422,
       "revenue_2026_9m_100m": 11.6357,
       "net_profit_2026_9m_100m": 1.1965,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -18839,11 +18839,11 @@
       "business_summary": "糖尿病护理、通用给药输注、微创介入类医疗器械的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 3.8219,
+      "net_profit_2025_100m": 0.8978,
       "revenue_2026_9m_100m": 3.4953,
       "net_profit_2026_9m_100m": 0.846,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -18871,11 +18871,11 @@
       "business_summary": "金属复合材料及制品、特种有色金属合金制品的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 5.7463,
+      "net_profit_2025_100m": 0.689,
       "revenue_2026_9m_100m": 3.6881,
       "net_profit_2026_9m_100m": 0.1853,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -18903,11 +18903,11 @@
       "business_summary": "数码纸基新材料、水性墨材料、食品包装材料及其他的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 5.9874,
+      "net_profit_2025_100m": 0.6988,
       "revenue_2026_9m_100m": 4.523,
       "net_profit_2026_9m_100m": 0.5249,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -18935,11 +18935,11 @@
       "business_summary": "集硬件、软件、云服务、AI为一体的智能网络摄像机及物联网视频产品的研发、设计、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 8.0168,
+      "net_profit_2025_100m": 0.7914,
       "revenue_2026_9m_100m": 6.0514,
       "net_profit_2026_9m_100m": 0.3991,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -18967,11 +18967,11 @@
       "business_summary": "公司主要面向新能源产业提供安全、可靠、高效、稳定且更具经济性的新型储能电池管理系统相关产品。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 12.5519,
+      "net_profit_2025_100m": 1.3693,
       "revenue_2026_9m_100m": 8.0872,
       "net_profit_2026_9m_100m": 0.4397,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -18999,11 +18999,11 @@
       "business_summary": "以汽车排气系统、动力系统等领域为主的汽车核心零部件产品的研发、设计、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 23.7288,
+      "net_profit_2025_100m": 1.4671,
       "revenue_2026_9m_100m": 17.5488,
       "net_profit_2026_9m_100m": 0.9874,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -19031,11 +19031,11 @@
       "business_summary": "瓦楞纸、箱板纸的研发、生产与销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 26.6563,
+      "net_profit_2025_100m": 1.8529,
       "revenue_2026_9m_100m": 27.1582,
       "net_profit_2026_9m_100m": 1.2553,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -19063,11 +19063,11 @@
       "business_summary": "香料产品的研发、生产与销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 10.7492,
+      "net_profit_2025_100m": 1.7896,
       "revenue_2026_9m_100m": 8.7569,
       "net_profit_2026_9m_100m": 1.3881,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -19095,11 +19095,11 @@
       "business_summary": "从事环保型贵金属选矿剂的研发、生产及销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 8.3975,
+      "net_profit_2025_100m": 2.7228,
       "revenue_2026_9m_100m": 5.7127,
       "net_profit_2026_9m_100m": 1.7102,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -19127,11 +19127,11 @@
       "business_summary": "表面与界面处理相关特种功能性材料的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 5.2907,
+      "net_profit_2025_100m": 0.6532,
       "revenue_2026_9m_100m": 4.8665,
       "net_profit_2026_9m_100m": 0.9046,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -19159,11 +19159,11 @@
       "business_summary": "空调结构件、热交换器、显示类结构件等家用电器配件产品的研发、设计、制造和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 5.1284,
+      "net_profit_2025_100m": 0.184,
       "revenue_2026_9m_100m": 3.9293,
       "net_profit_2026_9m_100m": 0.1366,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -19191,11 +19191,11 @@
       "business_summary": "植物分子医药的研发、生产及商业化。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 0.4786,
+      "net_profit_2025_100m": -1.5704,
       "revenue_2026_9m_100m": 0.2783,
       "net_profit_2026_9m_100m": -1.0589,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -19223,11 +19223,11 @@
       "business_summary": "特种光纤的研发、生产及销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 2.4683,
+      "net_profit_2025_100m": 0.9564,
       "revenue_2026_9m_100m": 1.4463,
       "net_profit_2026_9m_100m": 0.4583,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -19255,11 +19255,11 @@
       "business_summary": "基础化工、煤化工、炼油及石油化工、光伏与医药等领域压力容器的研发、设计、制造、销售及相关技术服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 7.2689,
+      "net_profit_2025_100m": 1.0938,
       "revenue_2026_9m_100m": 4.7411,
       "net_profit_2026_9m_100m": 0.6086,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -19287,11 +19287,11 @@
       "business_summary": "铝板带箔的研发、生产与销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 96.4106,
+      "net_profit_2025_100m": 4.1527,
       "revenue_2026_9m_100m": 100.8758,
       "net_profit_2026_9m_100m": 6.5066,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -19319,11 +19319,11 @@
       "business_summary": "物联网无线通信技术。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 42.1153,
+      "net_profit_2025_100m": 4.5174,
       "revenue_2026_9m_100m": 44.7799,
       "net_profit_2026_9m_100m": 4.8231,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -19351,11 +19351,11 @@
       "business_summary": "为全球知名音频品牌客户提供高性能音频、创新音频等产品的研发、设计、制造一体化服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 18.3393,
+      "net_profit_2025_100m": 2.2353,
       "revenue_2026_9m_100m": 14.3073,
       "net_profit_2026_9m_100m": 1.086,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -19383,11 +19383,11 @@
       "business_summary": "标签印刷产品的研发、生产与销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 6.0742,
+      "net_profit_2025_100m": 1.0952,
       "revenue_2026_9m_100m": 5.1156,
       "net_profit_2026_9m_100m": 0.9931,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -19415,11 +19415,11 @@
       "business_summary": "轧辊、辊环等钢材轧制关键部件的研发、生产、销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 4.7715,
+      "net_profit_2025_100m": 0.7085,
       "revenue_2026_9m_100m": 3.4617,
       "net_profit_2026_9m_100m": 0.4883,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -19447,11 +19447,11 @@
       "business_summary": "光连接产品的研发设计、精密制造与销售业务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 3.3324,
+      "net_profit_2025_100m": 0.6917,
       "revenue_2026_9m_100m": 3.224,
       "net_profit_2026_9m_100m": 0.6078,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -19479,11 +19479,11 @@
       "business_summary": "电机总成、电子风扇、电子水泵、空调鼓风机等热管理系统电驱动零部件产品的研发、生产与销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 14.1145,
+      "net_profit_2025_100m": 1.3162,
       "revenue_2026_9m_100m": 10.3909,
       "net_profit_2026_9m_100m": 0.5309,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -19511,11 +19511,11 @@
       "business_summary": "汽车自动变速器摩擦片研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 4.2022,
+      "net_profit_2025_100m": 1.412,
       "revenue_2026_9m_100m": 2.6198,
       "net_profit_2026_9m_100m": 0.7193,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -19543,11 +19543,11 @@
       "business_summary": "色谱技术的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 7.3513,
+      "net_profit_2025_100m": 0.5965,
       "revenue_2026_9m_100m": 6.1964,
       "net_profit_2026_9m_100m": 0.6399,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -19575,11 +19575,11 @@
       "business_summary": "光伏组件接线盒等新能源电气连接、保护产品的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 8.3,
+      "net_profit_2025_100m": 0.3321,
       "revenue_2026_9m_100m": 6.2826,
       "net_profit_2026_9m_100m": 0.1697,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -19607,11 +19607,11 @@
       "business_summary": "冷链设备智能控制器、医药与食品冷链监测记录仪、制冷热泵检测仪表及环境颗粒物检测仪器等产品的研发、生产和销售，并提供物联网和基于云的系统解决方案。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 5.5076,
+      "net_profit_2025_100m": 0.5934,
       "revenue_2026_9m_100m": 4.897,
       "net_profit_2026_9m_100m": 0.5215,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -19639,11 +19639,11 @@
       "business_summary": "光伏支架核心零部件的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 10.3111,
+      "net_profit_2025_100m": 0.9141,
       "revenue_2026_9m_100m": 8.1427,
       "net_profit_2026_9m_100m": 0.1853,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -19671,11 +19671,11 @@
       "business_summary": "铜基新材料的研发、生产与销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 103.2902,
+      "net_profit_2025_100m": 2.1912,
       "revenue_2026_9m_100m": 111.8013,
       "net_profit_2026_9m_100m": 2.6088,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -19703,11 +19703,11 @@
       "business_summary": "印制电路板的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 36.7702,
+      "net_profit_2025_100m": 5.3985,
       "revenue_2026_9m_100m": 36.2249,
       "net_profit_2026_9m_100m": 8.6037,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -19735,11 +19735,11 @@
       "business_summary": "暖通家居产品和暖通零配件的研发、设计、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 11.0979,
+      "net_profit_2025_100m": 1.1518,
       "revenue_2026_9m_100m": 9.7172,
       "net_profit_2026_9m_100m": 0.9037,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -19767,11 +19767,11 @@
       "business_summary": "陶瓷管壳和封装散热基板等功率半导体器件关键部件的研发、制造和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 6.0002,
+      "net_profit_2025_100m": 0.8808,
       "revenue_2026_9m_100m": 5.2448,
       "net_profit_2026_9m_100m": 0.8347,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -19799,11 +19799,11 @@
       "business_summary": "铝型材挤压模具及配件、铝型材挤压配套设备、精密机械零部件等产品的研发、设计、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 9.4292,
+      "net_profit_2025_100m": 0.8116,
       "revenue_2026_9m_100m": 7.9001,
       "net_profit_2026_9m_100m": 0.725,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -19831,11 +19831,11 @@
       "business_summary": "离心压缩机、往复压缩机以及核泵等重大技术装备类产品的研发、设计、制造、销售和全生命周期服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 101.2221,
+      "net_profit_2025_100m": 7.3947,
       "revenue_2026_9m_100m": 75.6211,
       "net_profit_2026_9m_100m": 4.9447,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -19863,11 +19863,11 @@
       "business_summary": "全栈高性能GPU芯片及计算平台研发、设计和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 16.4409,
+      "net_profit_2025_100m": -7.8945,
       "revenue_2026_9m_100m": 28.2378,
       "net_profit_2026_9m_100m": 6.3898,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -19895,11 +19895,11 @@
       "business_summary": "公司是一家专业从事高温工业用耐火材料整体解决方案的高新技术企业，为客户提供耐火材料整体承包服务及耐火材料产品。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 10.6203,
+      "net_profit_2025_100m": 0.7933,
       "revenue_2026_9m_100m": 9.2515,
       "net_profit_2026_9m_100m": 0.7836,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -19927,11 +19927,11 @@
       "business_summary": "电气控制系统产品及整体解决方案的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 4.0092,
+      "net_profit_2025_100m": 0.7123,
       "revenue_2026_9m_100m": 3.4568,
       "net_profit_2026_9m_100m": 0.5099,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -19959,11 +19959,11 @@
       "business_summary": "BOPP电工膜研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 7.5714,
+      "net_profit_2025_100m": 2.4352,
       "revenue_2026_9m_100m": 7.0901,
       "net_profit_2026_9m_100m": 1.9901,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -19991,11 +19991,11 @@
       "business_summary": "农药产品以及功能化学品的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 53.6863,
+      "net_profit_2025_100m": 4.6575,
       "revenue_2026_9m_100m": 43.4907,
       "net_profit_2026_9m_100m": 3.5144,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -20023,11 +20023,11 @@
       "business_summary": "轴承及相关零部件的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 60.3377,
+      "net_profit_2025_100m": 5.2925,
       "revenue_2026_9m_100m": 46.3585,
       "net_profit_2026_9m_100m": 4.4282,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -20055,12 +20055,12 @@
       "business_summary": "激光加工设备及智能制造生产线的研发、生产、销售及服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 14.6689,
+      "net_profit_2025_100m": 0.9794,
       "revenue_2026_9m_100m": "",
       "net_profit_2026_9m_100m": "",
-      "financial_source_url": "",
-      "financial_updated": ""
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
+      "financial_updated": "2026-11-16"
     },
     {
       "id": "STOCK:001335",
@@ -20087,11 +20087,11 @@
       "business_summary": "有机颜料等着色剂的产品开发、销售及服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 13.1279,
+      "net_profit_2025_100m": 0.7782,
       "revenue_2026_9m_100m": 11.6363,
       "net_profit_2026_9m_100m": 0.8002,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -20119,11 +20119,11 @@
       "business_summary": "电脑刺绣机的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 14.8263,
+      "net_profit_2025_100m": 2.2274,
       "revenue_2026_9m_100m": 12.5694,
       "net_profit_2026_9m_100m": 1.8346,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -20151,11 +20151,11 @@
       "business_summary": "塑料成型设备核心零部件研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 9.7011,
+      "net_profit_2025_100m": 1.9683,
       "revenue_2026_9m_100m": 7.194,
       "net_profit_2026_9m_100m": 0.5597,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -20183,11 +20183,11 @@
       "business_summary": "定制化汽车系统连接件研发、生产及销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 7.6255,
+      "net_profit_2025_100m": 1.0013,
       "revenue_2026_9m_100m": 5.929,
       "net_profit_2026_9m_100m": 0.6959,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -20215,11 +20215,11 @@
       "business_summary": "凿岩设备和空气压缩机的研发、生产、销售和服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 9.0571,
+      "net_profit_2025_100m": 1.1227,
       "revenue_2026_9m_100m": 6.1721,
       "net_profit_2026_9m_100m": 0.7265,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -20247,11 +20247,11 @@
       "business_summary": "注塑模具热流道系统及相关部件研发、设计、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 2.9739,
+      "net_profit_2025_100m": 0.7921,
       "revenue_2026_9m_100m": 2.2813,
       "net_profit_2026_9m_100m": 0.4862,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -20279,11 +20279,11 @@
       "business_summary": "功能性高分子发泡材料的研发、制造和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 8.357,
+      "net_profit_2025_100m": 1.1123,
       "revenue_2026_9m_100m": 6.4322,
       "net_profit_2026_9m_100m": 0.6245,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -20311,11 +20311,11 @@
       "business_summary": "孔加工刀具中钻削刀具产品的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 5.1164,
+      "net_profit_2025_100m": 1.9761,
       "revenue_2026_9m_100m": 3.7465,
       "net_profit_2026_9m_100m": 1.3596,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -20343,11 +20343,11 @@
       "business_summary": "公司是一家围绕环境调节设备开展研发、设计、制造、销售和服务一体化业务的综合性企业。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 20.3639,
+      "net_profit_2025_100m": 2.3211,
       "revenue_2026_9m_100m": 20.5769,
       "net_profit_2026_9m_100m": 2.0741,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -20375,11 +20375,11 @@
       "business_summary": "汽车用精密钢管及管型零部件的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 5.4002,
+      "net_profit_2025_100m": 1.0906,
       "revenue_2026_9m_100m": 4.3627,
       "net_profit_2026_9m_100m": 0.9306,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -20407,11 +20407,11 @@
       "business_summary": "汽车结构件、功能件的研发、生产与销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 22.933,
+      "net_profit_2025_100m": 2.0078,
       "revenue_2026_9m_100m": 17.341,
       "net_profit_2026_9m_100m": 1.5609,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -20439,11 +20439,11 @@
       "business_summary": "麻醉、监护类医疗器械产品的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 3.4529,
+      "net_profit_2025_100m": 0.8582,
       "revenue_2026_9m_100m": 2.6035,
       "net_profit_2026_9m_100m": 0.5171,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -20471,11 +20471,11 @@
       "business_summary": "酮肟系列精细化学品的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 10.323,
+      "net_profit_2025_100m": 1.9451,
       "revenue_2026_9m_100m": 6.3517,
       "net_profit_2026_9m_100m": 0.8677,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -20503,11 +20503,11 @@
       "business_summary": "以手术缝线为代表的外科手术医疗器械及多肽制药设备等产品的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 2.1494,
+      "net_profit_2025_100m": 0.7081,
       "revenue_2026_9m_100m": 1.8281,
       "net_profit_2026_9m_100m": 0.6146,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -20535,11 +20535,11 @@
       "business_summary": "巨型全钢工程机械子午线轮胎的研发、生产与销售，以及矿用轮胎运营管理业务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 22.3218,
+      "net_profit_2025_100m": 5.5963,
       "revenue_2026_9m_100m": 18.0338,
       "net_profit_2026_9m_100m": 3.1893,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -20567,11 +20567,11 @@
       "business_summary": "尼龙6系列产品研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 42.7605,
+      "net_profit_2025_100m": 1.1485,
       "revenue_2026_9m_100m": 33.343,
       "net_profit_2026_9m_100m": 0.7731,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -20599,11 +20599,11 @@
       "business_summary": "高性能、高可靠性特种线缆及光电组件等产品的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 2.2977,
+      "net_profit_2025_100m": 0.7098,
       "revenue_2026_9m_100m": 2.3315,
       "net_profit_2026_9m_100m": 0.6693,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -20631,11 +20631,11 @@
       "business_summary": "心血管疾病精准诊疗创新医疗器械研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 5.4209,
+      "net_profit_2025_100m": 0.8002,
       "revenue_2026_9m_100m": 5.8291,
       "net_profit_2026_9m_100m": 1.3301,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -20663,11 +20663,11 @@
       "business_summary": "自有品牌产品的研发、设计和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 19.8092,
+      "net_profit_2025_100m": 2.1951,
       "revenue_2026_9m_100m": 14.3658,
       "net_profit_2026_9m_100m": 1.4444,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -20695,11 +20695,11 @@
       "business_summary": "公司为业内领先、具有行业变革意义的电子产业基础设施综合服务提供商，为客户提供覆盖EDA/CAM工业软件、印制电路板制造、电子元器件购销及电子装联等全产业链一体化服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 102.3171,
+      "net_profit_2025_100m": 13.0631,
       "revenue_2026_9m_100m": 119.978,
       "net_profit_2026_9m_100m": 18.6615,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -20727,11 +20727,11 @@
       "business_summary": "主要从事数据中心企业级SSD产品的研发和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 22.8869,
+      "net_profit_2025_100m": -4.8067,
       "revenue_2026_9m_100m": 98.3523,
       "net_profit_2026_9m_100m": 25.4337,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -20759,11 +20759,11 @@
       "business_summary": "计量校准、检测、认证等专业技术服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 8.6586,
+      "net_profit_2025_100m": 1.0315,
       "revenue_2026_9m_100m": 6.4027,
       "net_profit_2026_9m_100m": 0.733,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -20791,11 +20791,11 @@
       "business_summary": "新能源汽车直流充电设备核心部件研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 13.2427,
+      "net_profit_2025_100m": 1.0722,
       "revenue_2026_9m_100m": 8.2676,
       "net_profit_2026_9m_100m": -0.645,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -20823,11 +20823,11 @@
       "business_summary": "面向新能源电池极片制造及新材料制备领域提供智能装备的研发、生产及销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 8.0367,
+      "net_profit_2025_100m": 1.5626,
       "revenue_2026_9m_100m": 7.1476,
       "net_profit_2026_9m_100m": 0.0156,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -20855,11 +20855,11 @@
       "business_summary": "主要从事等离子体射频电源系统、等离子体激发装置、等离子体直流电源、各种配件的研发、生产、销售及技术服务，并引进真空获得和流体控制等相关的核心零部件，围绕等离子体工艺提供核心零部件整体解决方案。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 5.2947,
+      "net_profit_2025_100m": 1.1384,
       "revenue_2026_9m_100m": 4.4661,
       "net_profit_2026_9m_100m": 0.9151,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -20887,11 +20887,11 @@
       "business_summary": "化妆品原料和化妆品成品的研发、生产、销售以及相关服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 2.7531,
+      "net_profit_2025_100m": 0.9085,
       "revenue_2026_9m_100m": 1.8375,
       "net_profit_2026_9m_100m": 0.5579,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -20919,11 +20919,11 @@
       "business_summary": "新能源电力设备研发、生产、销售及服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 25.741,
+      "net_profit_2025_100m": 1.5681,
       "revenue_2026_9m_100m": 20.2319,
       "net_profit_2026_9m_100m": -1.0767,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -20951,11 +20951,11 @@
       "business_summary": "热管理、电磁屏蔽和吸波等先进电子功能材料及器件研发、产业化。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 7.0666,
+      "net_profit_2025_100m": 2.6908,
       "revenue_2026_9m_100m": 7.7422,
       "net_profit_2026_9m_100m": 3.3079,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -20983,11 +20983,11 @@
       "business_summary": "轨道交通和电力系统领域绝缘、过电压保护设备及在线监测综合解决方案等产品的研发、生产及销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 3.7293,
+      "net_profit_2025_100m": 0.5908,
       "revenue_2026_9m_100m": 2.87,
       "net_profit_2026_9m_100m": 0.3435,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -21015,11 +21015,11 @@
       "business_summary": "薄膜电容器相关BOPP薄膜材料的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 6.4238,
+      "net_profit_2025_100m": 0.8555,
       "revenue_2026_9m_100m": 4.9711,
       "net_profit_2026_9m_100m": 0.4505,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -21047,11 +21047,11 @@
       "business_summary": "高性能绝缘纤维材料及其成型制品的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 7.9552,
+      "net_profit_2025_100m": 1.9784,
       "revenue_2026_9m_100m": 7.5082,
       "net_profit_2026_9m_100m": 1.8261,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -21079,11 +21079,11 @@
       "business_summary": "己内酯系列产品的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 6.3502,
+      "net_profit_2025_100m": 1.2179,
       "revenue_2026_9m_100m": 5.5498,
       "net_profit_2026_9m_100m": 1.3523,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -21111,11 +21111,11 @@
       "business_summary": "应用在专业的康复护理与医疗防护领域的一次性医用耗材的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 9.8873,
+      "net_profit_2025_100m": 0.9409,
       "revenue_2026_9m_100m": 10.4022,
       "net_profit_2026_9m_100m": 1.1385,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -21143,11 +21143,11 @@
       "business_summary": "专注于系统级芯片(SoC)的集成电路设计。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 28.0438,
+      "net_profit_2025_100m": 5.956,
       "revenue_2026_9m_100m": 21.6675,
       "net_profit_2026_9m_100m": 4.6299,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -21175,11 +21175,11 @@
       "business_summary": "全人源抗体药物的开发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 0.5122,
+      "net_profit_2025_100m": -6.0132,
       "revenue_2026_9m_100m": 1.5456,
       "net_profit_2026_9m_100m": -3.0245,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -21207,11 +21207,11 @@
       "business_summary": "智能制造装备的研发设计、生产、销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 5.9767,
+      "net_profit_2025_100m": 1.3068,
       "revenue_2026_9m_100m": 5.0907,
       "net_profit_2026_9m_100m": 1.027,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -21239,11 +21239,11 @@
       "business_summary": "提供基因编辑服务、临床前药理药效评估服务、创新模式动物销售、抗体开发及创新生物药研发。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 13.7881,
+      "net_profit_2025_100m": 1.732,
       "revenue_2026_9m_100m": 14.0276,
       "net_profit_2026_9m_100m": 3.1245,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -21271,11 +21271,11 @@
       "business_summary": "工业级胶粘材料、电子级胶粘材料及功能性薄膜材料等功能性复合材料的研发、生产及销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 34.0823,
+      "net_profit_2025_100m": 3.0918,
       "revenue_2026_9m_100m": 27.7942,
       "net_profit_2026_9m_100m": 2.2504,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -21303,11 +21303,11 @@
       "business_summary": "中段硅片加工、晶圆级封装、芯粒多芯片集成封装等晶圆级先进封测服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 65.2144,
+      "net_profit_2025_100m": 9.205,
       "revenue_2026_9m_100m": 51.2015,
       "net_profit_2026_9m_100m": 6.3582,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -21335,11 +21335,11 @@
       "business_summary": "钼相关产品的生产、加工、销售业务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 35.0251,
+      "net_profit_2025_100m": 8.8392,
       "revenue_2026_9m_100m": 34.555,
       "net_profit_2026_9m_100m": 10.1646,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -21367,11 +21367,11 @@
       "business_summary": "半导体专用设备的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 4.1885,
+      "net_profit_2025_100m": 0.5283,
       "revenue_2026_9m_100m": 2.4185,
       "net_profit_2026_9m_100m": 0.0441,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -21399,11 +21399,11 @@
       "business_summary": "公司主要从事生态环保面料的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 17.203,
+      "net_profit_2025_100m": 2.3034,
       "revenue_2026_9m_100m": 14.8412,
       "net_profit_2026_9m_100m": 1.6462,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -21431,11 +21431,11 @@
       "business_summary": "液压组合密封件和液压软管等橡塑新材料产品的研发、生产和销售以及煤矿辅助运输设备的整车设计、生产、销售和维修。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 4.8432,
+      "net_profit_2025_100m": 0.5881,
       "revenue_2026_9m_100m": 3.4928,
       "net_profit_2026_9m_100m": 0.3982,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -21463,11 +21463,11 @@
       "business_summary": "干式摩擦片及湿式纸基摩擦片的研发、生产及销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 2.7626,
+      "net_profit_2025_100m": 0.8972,
       "revenue_2026_9m_100m": 2.2601,
       "net_profit_2026_9m_100m": 0.72,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -21495,11 +21495,11 @@
       "business_summary": "为境内外芯片设计企业提供12英寸晶圆代工服务和特色工艺解决方案的集成电路制造企业。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 25.8237,
+      "net_profit_2025_100m": -23.4582,
       "revenue_2026_9m_100m": 30.1545,
       "net_profit_2026_9m_100m": -14.01,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -21527,11 +21527,11 @@
       "business_summary": "复合肥和氮肥产品研发、生产、销售和服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 34.3062,
+      "net_profit_2025_100m": 0.5124,
       "revenue_2026_9m_100m": 24.3135,
       "net_profit_2026_9m_100m": 0.0574,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -21559,11 +21559,11 @@
       "business_summary": "公司专注从事新能源汽车动力电池热管理、燃油汽车动力系统热管理及储能电池热管理相关产品的研发、生产和销售，主要产品包括电池液冷板、电池集成箱体、燃油汽车发动机散热器、加热器暖风等。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 17.8023,
+      "net_profit_2025_100m": 0.9665,
       "revenue_2026_9m_100m": 14.9621,
       "net_profit_2026_9m_100m": -0.5094,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -21591,11 +21591,11 @@
       "business_summary": "提供数据存储主控芯片、AIoT信号处理及传输芯片的平台型芯片设计企业。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 13.2713,
+      "net_profit_2025_100m": 1.4216,
       "revenue_2026_9m_100m": 13.6909,
       "net_profit_2026_9m_100m": 3.264,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -21623,11 +21623,11 @@
       "business_summary": "季铵（鏻）化合物产品研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 6.1115,
+      "net_profit_2025_100m": 0.8243,
       "revenue_2026_9m_100m": 4.8787,
       "net_profit_2026_9m_100m": 0.4826,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -21655,11 +21655,11 @@
       "business_summary": "薄膜电容器、电能质量治理配套产品的研发、生产及销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 5.5125,
+      "net_profit_2025_100m": 0.1862,
       "revenue_2026_9m_100m": 6.4778,
       "net_profit_2026_9m_100m": 0.046,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -21687,11 +21687,11 @@
       "business_summary": "半导体第三方检测分析服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 5.2953,
+      "net_profit_2025_100m": 0.6188,
       "revenue_2026_9m_100m": 4.7975,
       "net_profit_2026_9m_100m": 0.3081,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -21719,11 +21719,11 @@
       "business_summary": "汽车冲焊件以及相关模具的开发、加工、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 40.5293,
+      "net_profit_2025_100m": 2.2746,
       "revenue_2026_9m_100m": 31.5878,
       "net_profit_2026_9m_100m": 0.9977,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -21751,11 +21751,11 @@
       "business_summary": "微特电机的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 9.2003,
+      "net_profit_2025_100m": 0.9349,
       "revenue_2026_9m_100m": 7.457,
       "net_profit_2026_9m_100m": 0.5484,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -21783,11 +21783,11 @@
       "business_summary": "公司是一家行业领先的汽车电子智能化解决方案提供商，主要从事车身域、智能座舱域、动力域以及智能驾驶域等汽车电子产品的研发、生产及销售，同时为客户提供汽车电子EMS和技术开发服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 36.0927,
+      "net_profit_2025_100m": 2.484,
       "revenue_2026_9m_100m": 28.2064,
       "net_profit_2026_9m_100m": 1.1299,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -21815,11 +21815,11 @@
       "business_summary": "从事汽车天窗、玻璃升降器等汽车开闭器件以及相关电子控制单元的研发、制造及销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 19.237,
+      "net_profit_2025_100m": 2.2467,
       "revenue_2026_9m_100m": 13.2837,
       "net_profit_2026_9m_100m": 1.456,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -21847,11 +21847,11 @@
       "business_summary": "废弃油脂资源综合利用。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 31.708,
+      "net_profit_2025_100m": 1.4055,
       "revenue_2026_9m_100m": 34.8376,
       "net_profit_2026_9m_100m": 1.1051,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -21879,11 +21879,11 @@
       "business_summary": "创新药的研发、生产及销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 9.3524,
+      "net_profit_2025_100m": 2.0256,
       "revenue_2026_9m_100m": 2.3294,
       "net_profit_2026_9m_100m": -2.9593,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -21911,11 +21911,11 @@
       "business_summary": "智能开关、智能控制器、无刷电机、精密结构件等锂电电动工具、消费电子等领域零部件的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 14.0187,
+      "net_profit_2025_100m": 1.2436,
       "revenue_2026_9m_100m": 10.7489,
       "net_profit_2026_9m_100m": 0.5804,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -21943,11 +21943,11 @@
       "business_summary": "高性能特种功能材料研发、生产及销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 7.0224,
+      "net_profit_2025_100m": 1.2329,
       "revenue_2026_9m_100m": 5.2651,
       "net_profit_2026_9m_100m": 0.9198,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -21975,11 +21975,11 @@
       "business_summary": "电子材料和化工新材料的研发、生产与销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 36.462,
+      "net_profit_2025_100m": 1.1605,
       "revenue_2026_9m_100m": 39.6813,
       "net_profit_2026_9m_100m": 1.083,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -22007,11 +22007,11 @@
       "business_summary": "新能源汽车电驱及电源产品系统解决方案的研发、生产、销售和技术服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 206.97,
+      "net_profit_2025_100m": 11.3336,
       "revenue_2026_9m_100m": 156.8091,
       "net_profit_2026_9m_100m": -0.4735,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -22039,11 +22039,11 @@
       "business_summary": "以骨科耗材为主的医疗器械的研发、生产与销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 3.0165,
+      "net_profit_2025_100m": 0.7775,
       "revenue_2026_9m_100m": 1.9955,
       "net_profit_2026_9m_100m": 0.3888,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -22071,11 +22071,11 @@
       "business_summary": "新能源电驱动系统的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 33.5368,
+      "net_profit_2025_100m": 1.5316,
       "revenue_2026_9m_100m": 38.0875,
       "net_profit_2026_9m_100m": 1.647,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -22103,11 +22103,11 @@
       "business_summary": "电子测量仪器和半导体测试设备的研发、制造、销售及服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 11.9407,
+      "net_profit_2025_100m": 1.7365,
       "revenue_2026_9m_100m": 40.435,
       "net_profit_2026_9m_100m": 20.0592,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -22135,11 +22135,11 @@
       "business_summary": "消费电子功能性产品及防护性产品的设计、研发、生产与销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 4.511,
+      "net_profit_2025_100m": 0.5975,
       "revenue_2026_9m_100m": 3.978,
       "net_profit_2026_9m_100m": 0.5182,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -22167,11 +22167,11 @@
       "business_summary": "稀土永磁材料应用器件研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 14.438,
+      "net_profit_2025_100m": 1.3153,
       "revenue_2026_9m_100m": 9.8853,
       "net_profit_2026_9m_100m": -0.3829,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -22199,11 +22199,11 @@
       "business_summary": "数码喷印墨水的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 4.8512,
+      "net_profit_2025_100m": 0.7078,
       "revenue_2026_9m_100m": 4.0988,
       "net_profit_2026_9m_100m": 0.4899,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -22231,11 +22231,11 @@
       "business_summary": "光通信领域无源光器件产品的研发、制造与销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 22.1577,
+      "net_profit_2025_100m": 3.0471,
       "revenue_2026_9m_100m": 34.6184,
       "net_profit_2026_9m_100m": 6.5564,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -22263,11 +22263,11 @@
       "business_summary": "12英寸硅片的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 26.4922,
+      "net_profit_2025_100m": -7.3817,
       "revenue_2026_9m_100m": 26.5094,
       "net_profit_2026_9m_100m": 1.5141,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -22295,11 +22295,11 @@
       "business_summary": "高端绿色电解成套装备、钛电极以及金属玻璃封接制品的研发、设计、生产及销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 23.9489,
+      "net_profit_2025_100m": 2.0411,
       "revenue_2026_9m_100m": 16.4792,
       "net_profit_2026_9m_100m": 1.6219,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -22327,11 +22327,11 @@
       "business_summary": "硅基OLED微型显示屏、光学系统和XR整体解决方案的研发、生产制造和销售、战略产品开发。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 5.1304,
+      "net_profit_2025_100m": -2.1233,
       "revenue_2026_9m_100m": 13.0782,
       "net_profit_2026_9m_100m": 0.3107,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -22359,11 +22359,11 @@
       "business_summary": "排水管网系统的智慧诊断与健康评估、病害治理以及运营维护。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 7.5922,
+      "net_profit_2025_100m": 1.2501,
       "revenue_2026_9m_100m": 5.265,
       "net_profit_2026_9m_100m": 0.429,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -22391,11 +22391,11 @@
       "business_summary": "乳制品及含乳饮料的制造与销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 18.3863,
+      "net_profit_2025_100m": 2.2112,
       "revenue_2026_9m_100m": 13.7059,
       "net_profit_2026_9m_100m": 1.6316,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -22423,11 +22423,11 @@
       "business_summary": "研发和生产用于药物分析检测和分离纯化的液相色谱材料。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 4.0293,
+      "net_profit_2025_100m": 1.2654,
       "revenue_2026_9m_100m": 4.2496,
       "net_profit_2026_9m_100m": 1.6482,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -22455,11 +22455,11 @@
       "business_summary": "医学影像设备、工业无损检测设备的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 4.0551,
+      "net_profit_2025_100m": 1.4892,
       "revenue_2026_9m_100m": 2.2982,
       "net_profit_2026_9m_100m": 0.4298,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -22487,11 +22487,11 @@
       "business_summary": "主要从事半导体设备特殊涂层零部件和精密光学器件的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 4.9574,
+      "net_profit_2025_100m": 1.8475,
       "revenue_2026_9m_100m": 4.899,
       "net_profit_2026_9m_100m": 1.8612,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -22519,11 +22519,11 @@
       "business_summary": "印制电路板的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 47.5234,
+      "net_profit_2025_100m": 2.3135,
       "revenue_2026_9m_100m": 48.6156,
       "net_profit_2026_9m_100m": -1.487,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -22551,11 +22551,11 @@
       "business_summary": "冰箱滤水器、泳池类滤芯、家用净水滤芯、咖啡机滤芯、整机等多品类净水器件及相关功能材料的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 10.1094,
+      "net_profit_2025_100m": 1.1839,
       "revenue_2026_9m_100m": 8.1626,
       "net_profit_2026_9m_100m": 0.9412,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -22583,11 +22583,11 @@
       "business_summary": "汽车内饰件的研发、生产及销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 9.7133,
+      "net_profit_2025_100m": 1.4798,
       "revenue_2026_9m_100m": 5.5459,
       "net_profit_2026_9m_100m": 0.3495,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -22615,11 +22615,11 @@
       "business_summary": "新材料的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 34.9551,
+      "net_profit_2025_100m": 2.0265,
       "revenue_2026_9m_100m": 28.186,
       "net_profit_2026_9m_100m": 1.2364,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -22647,11 +22647,11 @@
       "business_summary": "数码喷印设备及相关配件耗材的研发、生产及销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 6.1203,
+      "net_profit_2025_100m": 0.5353,
       "revenue_2026_9m_100m": 5.4119,
       "net_profit_2026_9m_100m": 0.4542,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -22679,11 +22679,11 @@
       "business_summary": "泛半导体设备核心零部件的研发、生产和销售以及提供表面处理服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 8.6758,
+      "net_profit_2025_100m": 2.2593,
       "revenue_2026_9m_100m": 7.9449,
       "net_profit_2026_9m_100m": 1.8113,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -22711,11 +22711,11 @@
       "business_summary": "高端钛及钛合金材料的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 6.1408,
+      "net_profit_2025_100m": 0.5927,
       "revenue_2026_9m_100m": 4.5134,
       "net_profit_2026_9m_100m": 0.7819,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -22743,11 +22743,11 @@
       "business_summary": "海绵钛系列产品研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 16.8446,
+      "net_profit_2025_100m": 1.9634,
       "revenue_2026_9m_100m": 14.6552,
       "net_profit_2026_9m_100m": 1.5201,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -22775,11 +22775,11 @@
       "business_summary": "电流感测精密电阻及熔断器的设计、研发、制造和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 7.7899,
+      "net_profit_2025_100m": 1.3119,
       "revenue_2026_9m_100m": 7.2199,
       "net_profit_2026_9m_100m": 1.267,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -22807,11 +22807,11 @@
       "business_summary": "公司主要从事大型高端装备专用部件的研发、制造与销售，产品结构以风电齿轮箱专用部件为主、注塑机厚大专用部件为辅，是全球行业领先、质量可靠、技术卓越的大型高端装备专用部件制造商。公司产品主要应用于大型风电装备与注塑机领域，公司是国内少数可提供风电齿轮箱专用部件全工序服务的企业，致力于成为新能源风电领域的全球顶尖大型高端装备专用部件制造商，助力国家新能源领域加快发展新质生产力。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 12.6298,
+      "net_profit_2025_100m": 2.0133,
       "revenue_2026_9m_100m": 7.8954,
       "net_profit_2026_9m_100m": 0.6599,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -22839,11 +22839,11 @@
       "business_summary": "能源化工专用设备的设计、研发、制造和服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 2.9463,
+      "net_profit_2025_100m": 0.5443,
       "revenue_2026_9m_100m": 1.5443,
       "net_profit_2026_9m_100m": -0.0649,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -22871,11 +22871,11 @@
       "business_summary": "有色金属功能粉体材料中微细球形铝粉和铝颜料的应用研究和产品开发。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 7.9628,
+      "net_profit_2025_100m": 0.8183,
       "revenue_2026_9m_100m": 6.7589,
       "net_profit_2026_9m_100m": 0.5147,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -22903,11 +22903,11 @@
       "business_summary": "锆类产品、特种尼龙产品、精细化工产品的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 17.8119,
+      "net_profit_2025_100m": 2.493,
       "revenue_2026_9m_100m": 14.529,
       "net_profit_2026_9m_100m": 2.6175,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -22935,11 +22935,11 @@
       "business_summary": "DRAM产品的研发、设计、生产及销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 617.9932,
+      "net_profit_2025_100m": 18.7486,
       "revenue_2026_9m_100m": 2690.2411,
       "net_profit_2026_9m_100m": 1320.4005,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -22967,11 +22967,11 @@
       "business_summary": "硬质合金产品的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 12.1603,
+      "net_profit_2025_100m": 1.2471,
       "revenue_2026_9m_100m": 20.7004,
       "net_profit_2026_9m_100m": 4.695,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -22999,11 +22999,11 @@
       "business_summary": "旅游演艺、旅游索道、旅游餐饮、旅游项目投资及管理。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 10.2971,
+      "net_profit_2025_100m": 3.8424,
       "revenue_2026_9m_100m": 7.0474,
       "net_profit_2026_9m_100m": 2.2208,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -23031,11 +23031,11 @@
       "business_summary": "铝合金精密压铸件的研发、生产与销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 10.2571,
+      "net_profit_2025_100m": 1.4305,
       "revenue_2026_9m_100m": 9.5289,
       "net_profit_2026_9m_100m": 1.0468,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -23063,11 +23063,11 @@
       "business_summary": "矿山及建筑轮胎的设计、研发、销售与服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 25.8084,
+      "net_profit_2025_100m": 1.7395,
       "revenue_2026_9m_100m": 24.6598,
       "net_profit_2026_9m_100m": 1.4907,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -23095,11 +23095,11 @@
       "business_summary": "建筑陶瓷的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 64.5793,
+      "net_profit_2025_100m": 12.101,
       "revenue_2026_9m_100m": 43.9339,
       "net_profit_2026_9m_100m": 7.1445,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -23127,11 +23127,11 @@
       "business_summary": "铁矿石的采选、综合利用及铁精粉、钼精矿销售，石灰石的开采和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 19.9142,
+      "net_profit_2025_100m": 6.0178,
       "revenue_2026_9m_100m": 15.9272,
       "net_profit_2026_9m_100m": 5.6522,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -23159,11 +23159,11 @@
       "business_summary": "精密流体控制领域中关键控制部件及相关设备的研发、生产与销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 5.1061,
+      "net_profit_2025_100m": 1.3272,
       "revenue_2026_9m_100m": 5.2814,
       "net_profit_2026_9m_100m": 1.5985,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -23191,11 +23191,11 @@
       "business_summary": "高性能线束装备的研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 10.6444,
+      "net_profit_2025_100m": 1.5383,
       "revenue_2026_9m_100m": 10.6561,
       "net_profit_2026_9m_100m": 1.8624,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -23223,11 +23223,11 @@
       "business_summary": "功率半导体模块散热基板研发、生产和销售。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 8.4805,
+      "net_profit_2025_100m": 0.5503,
       "revenue_2026_9m_100m": 8.6943,
       "net_profit_2026_9m_100m": 0.0562,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     },
     {
@@ -23255,11 +23255,11 @@
       "business_summary": "汽车仪表的研发设计、生产、销售和服务。",
       "business_source_url": "https://webapi.cninfo.com.cn/",
       "business_updated": "2026-11-16",
-      "revenue_2025_100m": "",
-      "net_profit_2025_100m": "",
+      "revenue_2025_100m": 39.9755,
+      "net_profit_2025_100m": 9.2193,
       "revenue_2026_9m_100m": 28.6526,
       "net_profit_2026_9m_100m": 4.022,
-      "financial_source_url": "https://data.eastmoney.com/bbsj/202609/yjbb.html",
+      "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16"
     }
   ],
