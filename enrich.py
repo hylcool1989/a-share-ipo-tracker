@@ -12,7 +12,8 @@ import time
 import logging
 from pathlib import Path
 from datetime import datetime, timedelta
-from concurrent.futures import ThreadPoolExecutor, as_completed
+from concurrent.futures import ProcessPoolExecutor, as_completed
+import multiprocessing
 from zoneinfo import ZoneInfo
 
 import akshare as ak
@@ -26,7 +27,7 @@ FIN_KEYS = ["revenue_2025_100m", "net_profit_2025_100m", "revenue_2026_9m_100m",
             "net_profit_2026_9m_100m", "financial_source_url", "financial_updated"]
 SOURCE_BIZ = "https://webapi.cninfo.com.cn/"
 SOURCE_FIN = "https://data.eastmoney.com/bbsj/"
-PROFILE_WORKERS = max(1, min(8, int(os.getenv("PROFILE_WORKERS", "5"))))
+PROFILE_WORKERS = max(1, min(4, int(os.getenv("PROFILE_WORKERS", "3"))))
 PROFILE_BATCH = int(os.getenv("PROFILE_BATCH", "350"))
 
 def clean(x):
@@ -119,7 +120,7 @@ def main():
                and not valid_fresh(profiles.get(c, {}).get("business_updated"), 14)]
     pending = pending[:PROFILE_BATCH]
     print("Profile backlog:", len(pending), "of", len(wanted), flush=True)
-    with ThreadPoolExecutor(max_workers=PROFILE_WORKERS) as executor:
+    with ProcessPoolExecutor(max_workers=PROFILE_WORKERS, mp_context=multiprocessing.get_context("spawn")) as executor:
         future_to_code = {executor.submit(fetch_business, c): c for c in pending}
         for fut in as_completed(future_to_code):
             code = future_to_code[fut]
