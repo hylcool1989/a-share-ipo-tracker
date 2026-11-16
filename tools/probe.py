@@ -13,3 +13,5 @@ try:
     df=ak.stock_yjbb_em(date="20251231")
     print("stock_yjbb_em","SHAPE",df.shape,"COLUMNS",list(df.columns),"SAMPLE",df[df["股票代码"].astype(str).str.contains("301584|688801|920060")].to_json(orient="records",force_ascii=False),flush=True)
 except Exception as e: print("stock_yjbb_em ERROR",repr(e),flush=True)
+
+# Trigger API probe workflow
