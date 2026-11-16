@@ -19,3 +19,5 @@ tests=[
 with ThreadPoolExecutor(max_workers=5) as ex:
     fs=[ex.submit(one,n,f) for n,f in tests]
     for fut in as_completed(fs): print(fut.result(),flush=True)
+
+# run probe
