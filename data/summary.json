@@ -1,0 +1,23 @@
+{
+  "as_of": "2026-11-16",
+  "scope_start": "2024-11-16",
+  "total": 726,
+  "counts": {
+    "审核中": 232,
+    "待发行/上市": 2,
+    "待上市": 1,
+    "审核中止": 192,
+    "待核验": 31,
+    "已上市": 268
+  },
+  "source_ok": {
+    "issuance": true,
+    "audit": true
+  },
+  "source_errors": {},
+  "new_events_today": 726,
+  "sources": {
+    "issuance": "https://data.eastmoney.com/xg/xg/default_2.html",
+    "audit": "https://data.eastmoney.com/xg/ipo/"
+  }
+}
