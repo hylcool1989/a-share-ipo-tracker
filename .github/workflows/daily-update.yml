@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - update.py
+      - enrich.py
       - dashboard/**
       - requirements.txt
       - .github/workflows/**
@@ -20,7 +21,7 @@ concurrency:
 jobs:
   refresh-and-deploy:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 55
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -41,6 +42,8 @@ jobs:
             fi
             echo "::warning::One IPO source failed; published data will show a source-error warning"
           }
+      - name: Enrich issuer business and financial data
+        run: python -u enrich.py
       - name: Commit snapshots
         run: |
           git config user.name 'github-actions[bot]'
@@ -48,6 +51,7 @@ jobs:
           git add data/ dashboard/ipo_data.json
           if ! git diff --cached --quiet; then
             git commit -m 'data: refresh IPO database'
+            git pull --rebase origin main
             git push
           fi
       - uses: actions/configure-pages@v5
