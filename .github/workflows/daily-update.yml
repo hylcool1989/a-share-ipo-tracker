@@ -6,6 +6,7 @@ on:
     paths:
       - update.py
       - enrich.py
+      - market_cap.py
       - dashboard/**
       - requirements.txt
       - .github/workflows/**
@@ -44,6 +45,8 @@ jobs:
           }
       - name: Enrich issuer business and financial data
         run: python -u enrich.py
+      - name: Update market capitalization (latest available quotes)
+        run: python -u market_cap.py
       - name: Commit snapshots
         run: |
           git config user.name 'github-actions[bot]'
