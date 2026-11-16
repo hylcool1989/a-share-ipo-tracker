@@ -86,16 +86,23 @@ def main():
     source_ok={};errs={};issue=[];audits=[]
     for key,fn in (("issuance",lambda:ak.stock_xgsglb_em(symbol="全部股票")),
                    ("audit",ak.stock_register_all_em)):
-        try:
-            rows=fn().to_dict(orient="records")
-            if len(rows)<100:raise RuntimeError(f"Only {len(rows)} records received; refusing overwrite")
-            source_ok[key]=True
-            if key=="issuance":issue=rows
-            else:audits=rows
-            print(key,len(rows),flush=True)
-        except Exception as e:
-            source_ok[key]=False;errs[key]=str(e)
-            logging.exception("Source %s failed",key)
+        for attempt in range(1,4):
+            try:
+                rows=fn().to_dict(orient="records")
+                if len(rows)<100:raise RuntimeError(f"Only {len(rows)} records received; refusing overwrite")
+                source_ok[key]=True
+                if key=="issuance":issue=rows
+                else:audits=rows
+                print(key,len(rows),flush=True)
+                break
+            except Exception as e:
+                if attempt<3:
+                    import time
+                    print(f"{key} request failed ({attempt}/3): {e}; retrying",flush=True)
+                    time.sleep(attempt*5)
+                else:
+                    source_ok[key]=False;errs[key]=str(e)
+                    logging.exception("Source %s failed after retries",key)
     if not any(source_ok.values()):raise RuntimeError("Both data sources failed: "+str(errs))
     items={}
     for raw in audits:
