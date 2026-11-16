@@ -1,1 +1,842 @@
-{}
+{
+  "001220": {
+    "market_cap_100m_cny": 26.04,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "001221": {
+    "market_cap_100m_cny": 133.2,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "001232": {
+    "market_cap_100m_cny": 948.34,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "001233": {
+    "market_cap_100m_cny": 96.39,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "001237": {
+    "market_cap_100m_cny": 61.89,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "001246": {
+    "market_cap_100m_cny": 465.05,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "001248": {
+    "market_cap_100m_cny": 1382.78,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "001257": {
+    "market_cap_100m_cny": 308.99,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "001280": {
+    "market_cap_100m_cny": 1106.68,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "001285": {
+    "market_cap_100m_cny": 73.56,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "001312": {
+    "market_cap_100m_cny": 37.45,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "001325": {
+    "market_cap_100m_cny": 26.62,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "001335": {
+    "market_cap_100m_cny": 27.04,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "001356": {
+    "market_cap_100m_cny": 48.5,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "001365": {
+    "market_cap_100m_cny": 147.26,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "001369": {
+    "market_cap_100m_cny": 116.88,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "001381": {
+    "market_cap_100m_cny": 170.76,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "001382": {
+    "market_cap_100m_cny": 62.75,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "001386": {
+    "market_cap_100m_cny": 188.44,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "001388": {
+    "market_cap_100m_cny": 53.09,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "001390": {
+    "market_cap_100m_cny": 33.8,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "001391": {
+    "market_cap_100m_cny": 479.81,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "001393": {
+    "market_cap_100m_cny": 105.52,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "001395": {
+    "market_cap_100m_cny": 26.72,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "001396": {
+    "market_cap_100m_cny": 28.65,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "001399": {
+    "market_cap_100m_cny": 1132.58,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "001400": {
+    "market_cap_100m_cny": 66.93,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301173": {
+    "market_cap_100m_cny": 24.06,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301275": {
+    "market_cap_100m_cny": 172.21,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301449": {
+    "market_cap_100m_cny": 30.28,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301458": {
+    "market_cap_100m_cny": 74.16,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301479": {
+    "market_cap_100m_cny": 53.42,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301491": {
+    "market_cap_100m_cny": 44.51,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301501": {
+    "market_cap_100m_cny": 34.58,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301513": {
+    "market_cap_100m_cny": 65.02,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301531": {
+    "market_cap_100m_cny": 80.64,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301535": {
+    "market_cap_100m_cny": 52.31,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301557": {
+    "market_cap_100m_cny": 49.16,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301560": {
+    "market_cap_100m_cny": 33.14,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301563": {
+    "market_cap_100m_cny": 72.93,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301569": {
+    "market_cap_100m_cny": 153.71,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301575": {
+    "market_cap_100m_cny": 28.0,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301581": {
+    "market_cap_100m_cny": 24.19,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301583": {
+    "market_cap_100m_cny": 195.67,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301584": {
+    "market_cap_100m_cny": 76.91,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301585": {
+    "market_cap_100m_cny": 27.3,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301590": {
+    "market_cap_100m_cny": 31.07,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301595": {
+    "market_cap_100m_cny": 40.36,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301598": {
+    "market_cap_100m_cny": 29.89,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301599": {
+    "market_cap_100m_cny": 115.63,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301601": {
+    "market_cap_100m_cny": 19.18,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301602": {
+    "market_cap_100m_cny": 59.88,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301609": {
+    "market_cap_100m_cny": 43.96,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301616": {
+    "market_cap_100m_cny": 24.65,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301617": {
+    "market_cap_100m_cny": 75.23,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301622": {
+    "market_cap_100m_cny": 35.38,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301629": {
+    "market_cap_100m_cny": 75.94,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301630": {
+    "market_cap_100m_cny": 76.87,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301631": {
+    "market_cap_100m_cny": 62.07,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301632": {
+    "market_cap_100m_cny": 46.5,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301636": {
+    "market_cap_100m_cny": 27.63,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301638": {
+    "market_cap_100m_cny": 543.08,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301655": {
+    "market_cap_100m_cny": 89.66,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301656": {
+    "market_cap_100m_cny": 319.87,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301658": {
+    "market_cap_100m_cny": 91.63,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301660": {
+    "market_cap_100m_cny": 865.26,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301662": {
+    "market_cap_100m_cny": 65.37,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301665": {
+    "market_cap_100m_cny": 85.77,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301666": {
+    "market_cap_100m_cny": 1191.66,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301667": {
+    "market_cap_100m_cny": 47.41,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301668": {
+    "market_cap_100m_cny": 28.97,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301669": {
+    "market_cap_100m_cny": 91.54,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301677": {
+    "market_cap_100m_cny": 41.03,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301678": {
+    "market_cap_100m_cny": 91.77,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301680": {
+    "market_cap_100m_cny": 69.01,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301682": {
+    "market_cap_100m_cny": 106.68,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301683": {
+    "market_cap_100m_cny": 56.33,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301686": {
+    "market_cap_100m_cny": 59.62,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301687": {
+    "market_cap_100m_cny": 51.7,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301688": {
+    "market_cap_100m_cny": 43.51,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301689": {
+    "market_cap_100m_cny": 416.35,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301696": {
+    "market_cap_100m_cny": 314.05,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301697": {
+    "market_cap_100m_cny": 72.93,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301699": {
+    "market_cap_100m_cny": 209.45,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301707": {
+    "market_cap_100m_cny": 218.34,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301716": {
+    "market_cap_100m_cny": 227.01,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301717": {
+    "market_cap_100m_cny": 313.7,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "301718": {
+    "market_cap_100m_cny": 71.31,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "600930": {
+    "market_cap_100m_cny": 1660.23,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "601026": {
+    "market_cap_100m_cny": 73.06,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "601091": {
+    "market_cap_100m_cny": 622.31,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "601112": {
+    "market_cap_100m_cny": 239.3,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "601123": {
+    "market_cap_100m_cny": 173.71,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "603014": {
+    "market_cap_100m_cny": 243.67,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "603049": {
+    "market_cap_100m_cny": 335.89,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "603072": {
+    "market_cap_100m_cny": 71.65,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "603092": {
+    "market_cap_100m_cny": 139.36,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "603120": {
+    "market_cap_100m_cny": 36.87,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "603124": {
+    "market_cap_100m_cny": 100.11,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "603175": {
+    "market_cap_100m_cny": 380.87,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "603194": {
+    "market_cap_100m_cny": 137.38,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "603202": {
+    "market_cap_100m_cny": 80.42,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "603210": {
+    "market_cap_100m_cny": 41.22,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "603248": {
+    "market_cap_100m_cny": 76.91,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "603257": {
+    "market_cap_100m_cny": 51.84,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "603262": {
+    "market_cap_100m_cny": 57.32,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "603271": {
+    "market_cap_100m_cny": 63.76,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "603284": {
+    "market_cap_100m_cny": 25.45,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "603293": {
+    "market_cap_100m_cny": 51.81,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "603334": {
+    "market_cap_100m_cny": 35.9,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "603352": {
+    "market_cap_100m_cny": 50.05,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "603370": {
+    "market_cap_100m_cny": 42.25,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "603376": {
+    "market_cap_100m_cny": 78.64,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "603382": {
+    "market_cap_100m_cny": 29.92,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "603395": {
+    "market_cap_100m_cny": 51.92,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "603400": {
+    "market_cap_100m_cny": 42.42,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "603402": {
+    "market_cap_100m_cny": 52.58,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "603406": {
+    "market_cap_100m_cny": 97.0,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "603407": {
+    "market_cap_100m_cny": 160.74,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "603409": {
+    "market_cap_100m_cny": 29.05,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "603418": {
+    "market_cap_100m_cny": 77.23,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "603435": {
+    "market_cap_100m_cny": 154.56,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "603448": {
+    "market_cap_100m_cny": 60.24,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "603459": {
+    "market_cap_100m_cny": 412.3,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "603468": {
+    "market_cap_100m_cny": 76.22,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688411": {
+    "market_cap_100m_cny": 298.62,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688449": {
+    "market_cap_100m_cny": 170.2,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688545": {
+    "market_cap_100m_cny": 200.52,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688583": {
+    "market_cap_100m_cny": 77.7,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688605": {
+    "market_cap_100m_cny": 126.04,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688635": {
+    "market_cap_100m_cny": 150.72,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688708": {
+    "market_cap_100m_cny": 135.84,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688712": {
+    "market_cap_100m_cny": 111.88,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688727": {
+    "market_cap_100m_cny": 142.0,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688729": {
+    "market_cap_100m_cny": 651.7,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688750": {
+    "market_cap_100m_cny": 60.82,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688755": {
+    "market_cap_100m_cny": 28.47,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688757": {
+    "market_cap_100m_cny": 92.76,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688758": {
+    "market_cap_100m_cny": 91.79,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688759": {
+    "market_cap_100m_cny": 69.67,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688765": {
+    "market_cap_100m_cny": 107.18,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688775": {
+    "market_cap_100m_cny": 404.89,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688781": {
+    "market_cap_100m_cny": 488.0,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688783": {
+    "market_cap_100m_cny": 597.19,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688785": {
+    "market_cap_100m_cny": 161.2,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688790": {
+    "market_cap_100m_cny": 66.95,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688795": {
+    "market_cap_100m_cny": 1537.04,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688796": {
+    "market_cap_100m_cny": 303.94,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688797": {
+    "market_cap_100m_cny": 284.17,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688801": {
+    "market_cap_100m_cny": 2151.76,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688802": {
+    "market_cap_100m_cny": 2029.43,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688805": {
+    "market_cap_100m_cny": 57.85,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688806": {
+    "market_cap_100m_cny": 97.87,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688807": {
+    "market_cap_100m_cny": 137.3,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688808": {
+    "market_cap_100m_cny": 963.19,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688809": {
+    "market_cap_100m_cny": 459.01,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688811": {
+    "market_cap_100m_cny": 79.11,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688813": {
+    "market_cap_100m_cny": 116.21,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688816": {
+    "market_cap_100m_cny": 46.56,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688818": {
+    "market_cap_100m_cny": 704.5,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688820": {
+    "market_cap_100m_cny": 1463.66,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688825": {
+    "market_cap_100m_cny": 26026.76,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688826": {
+    "market_cap_100m_cny": 240.39,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688827": {
+    "market_cap_100m_cny": 61.87,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688828": {
+    "market_cap_100m_cny": 274.01,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688835": {
+    "market_cap_100m_cny": 291.86,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688836": {
+    "market_cap_100m_cny": 2847.39,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  },
+  "688837": {
+    "market_cap_100m_cny": 153.34,
+    "market_cap_as_of": "2026-11-16",
+    "market_cap_source_url": "https://qt.gtimg.cn/"
+  }
+}

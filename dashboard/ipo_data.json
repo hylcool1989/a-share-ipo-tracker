@@ -30,11 +30,11 @@
     },
     "market_cap": {
       "fetch_date": "2026-11-16",
-      "refreshed_today": 0,
-      "covered": 0,
+      "refreshed_today": 168,
+      "covered": 168,
       "listed": 268,
-      "source_ok": false,
-      "source_error": "东方财富 push2 行情服务器断开了连接，通常是短时间内请求过多，当前 IP 被临时限流。首次限流一般约 5 分钟后恢复，反复触发后可能需要 40 分钟以上；等待期间不要重复调用东方财富的行情接口，否则会延长限流。",
+      "source_ok": true,
+      "source_error": "",
       "unit": "亿元人民币",
       "note": "Total market capitalization (not free-float). From Eastmoney where available or Tencent A-share quotes (field 45, CNY 100m); quote date or collection date shown per row."
     }
@@ -16171,9 +16171,9 @@
       "net_profit_2026_9m_100m": "2.5275",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 76.91,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301173",
@@ -16206,9 +16206,9 @@
       "net_profit_2026_9m_100m": "0.9613",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 24.06,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:688801",
@@ -16241,9 +16241,9 @@
       "net_profit_2026_9m_100m": "-7.5401",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 2151.76,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920165",
@@ -16311,9 +16311,9 @@
       "net_profit_2026_9m_100m": "1.1196",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 240.39,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920022",
@@ -16381,9 +16381,9 @@
       "net_profit_2026_9m_100m": "0.848",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 26.04,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920298",
@@ -16451,9 +16451,9 @@
       "net_profit_2026_9m_100m": "6.3706",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 137.38,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:603257",
@@ -16486,9 +16486,9 @@
       "net_profit_2026_9m_100m": "1.0661",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 51.84,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:001280",
@@ -16521,9 +16521,9 @@
       "net_profit_2026_9m_100m": "14.3852",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 1106.68,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301686",
@@ -16556,9 +16556,9 @@
       "net_profit_2026_9m_100m": "0.8869",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 59.62,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301689",
@@ -16591,9 +16591,9 @@
       "net_profit_2026_9m_100m": "2.7773",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 416.35,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:688818",
@@ -16626,9 +16626,9 @@
       "net_profit_2026_9m_100m": "1.3235",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 704.5,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920186",
@@ -16731,9 +16731,9 @@
       "net_profit_2026_9m_100m": "28.5376",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 335.89,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920003",
@@ -16906,9 +16906,9 @@
       "net_profit_2026_9m_100m": "3.5298",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 72.93,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:001395",
@@ -16941,9 +16941,9 @@
       "net_profit_2026_9m_100m": "1.8614",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 26.72,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920027",
@@ -17011,9 +17011,9 @@
       "net_profit_2026_9m_100m": "0.19",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 33.14,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:688807",
@@ -17046,9 +17046,9 @@
       "net_profit_2026_9m_100m": "0.9414",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 137.3,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:688708",
@@ -17081,9 +17081,9 @@
       "net_profit_2026_9m_100m": "0.9111",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 135.84,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:001325",
@@ -17116,9 +17116,9 @@
       "net_profit_2026_9m_100m": "0.6916",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 26.62,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:688605",
@@ -17151,9 +17151,9 @@
       "net_profit_2026_9m_100m": "1.0467",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 126.04,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:688545",
@@ -17186,9 +17186,9 @@
       "net_profit_2026_9m_100m": "1.7843",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 200.52,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920159",
@@ -17291,9 +17291,9 @@
       "net_profit_2026_9m_100m": "-0.524",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 66.95,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301668",
@@ -17326,9 +17326,9 @@
       "net_profit_2026_9m_100m": "0.4714",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 28.97,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:688411",
@@ -17361,9 +17361,9 @@
       "net_profit_2026_9m_100m": "11.5589",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 298.62,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:001393",
@@ -17396,9 +17396,9 @@
       "net_profit_2026_9m_100m": "2.4915",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 105.52,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920160",
@@ -17466,9 +17466,9 @@
       "net_profit_2026_9m_100m": "0.9637",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 42.25,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:001248",
@@ -17501,9 +17501,9 @@
       "net_profit_2026_9m_100m": "46.7387",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 1382.78,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:600930",
@@ -17536,9 +17536,9 @@
       "net_profit_2026_9m_100m": "49.8383",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 1660.23,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301696",
@@ -17571,9 +17571,9 @@
       "net_profit_2026_9m_100m": "4.5941",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 314.05,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920124",
@@ -17641,9 +17641,9 @@
       "net_profit_2026_9m_100m": "2.8043",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 543.08,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301569",
@@ -17676,9 +17676,9 @@
       "net_profit_2026_9m_100m": "2.2641",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 153.71,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301598",
@@ -17711,9 +17711,9 @@
       "net_profit_2026_9m_100m": "1.0608",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 29.89,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301617",
@@ -17746,9 +17746,9 @@
       "net_profit_2026_9m_100m": "1.3239",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 75.23,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:688727",
@@ -17781,9 +17781,9 @@
       "net_profit_2026_9m_100m": "1.0047",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 142.0,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:603418",
@@ -17816,9 +17816,9 @@
       "net_profit_2026_9m_100m": "3.6561",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 77.23,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:001369",
@@ -17851,9 +17851,9 @@
       "net_profit_2026_9m_100m": "3.5444",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 116.88,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301501",
@@ -17886,9 +17886,9 @@
       "net_profit_2026_9m_100m": "0.9032",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 34.58,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:603409",
@@ -17921,9 +17921,9 @@
       "net_profit_2026_9m_100m": "1.1443",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 29.05,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301630",
@@ -17956,9 +17956,9 @@
       "net_profit_2026_9m_100m": "2.1786",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 76.87,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920091",
@@ -18026,9 +18026,9 @@
       "net_profit_2026_9m_100m": "1.7533",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 69.01,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:688828",
@@ -18061,9 +18061,9 @@
       "net_profit_2026_9m_100m": "-1.4643",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 274.01,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:001391",
@@ -18096,9 +18096,9 @@
       "net_profit_2026_9m_100m": "14.7172",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 479.81,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301631",
@@ -18131,9 +18131,9 @@
       "net_profit_2026_9m_100m": "1.8957",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 62.07,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:603376",
@@ -18166,9 +18166,9 @@
       "net_profit_2026_9m_100m": "0.5961",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 78.64,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920119",
@@ -18236,9 +18236,9 @@
       "net_profit_2026_9m_100m": "2.3678",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 60.24,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:603072",
@@ -18271,9 +18271,9 @@
       "net_profit_2026_9m_100m": "1.7045",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 71.65,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920068",
@@ -18341,9 +18341,9 @@
       "net_profit_2026_9m_100m": "2.8007",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 76.22,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:001365",
@@ -18376,9 +18376,9 @@
       "net_profit_2026_9m_100m": "3.9181",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 147.26,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920080",
@@ -18446,9 +18446,9 @@
       "net_profit_2026_9m_100m": "8.6381",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 243.67,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:688805",
@@ -18481,9 +18481,9 @@
       "net_profit_2026_9m_100m": "0.8011",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 57.85,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:001246",
@@ -18516,9 +18516,9 @@
       "net_profit_2026_9m_100m": "33.2011",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 465.05,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920056",
@@ -18586,9 +18586,9 @@
       "net_profit_2026_9m_100m": "3.8669",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 2847.39,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:001390",
@@ -18621,9 +18621,9 @@
       "net_profit_2026_9m_100m": "1.2966",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 33.8,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920202",
@@ -18691,9 +18691,9 @@
       "net_profit_2026_9m_100m": "0.5954",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 65.37,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920018",
@@ -18761,9 +18761,9 @@
       "net_profit_2026_9m_100m": "0.5382",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 48.5,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301707",
@@ -18796,9 +18796,9 @@
       "net_profit_2026_9m_100m": "1.4279",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 218.34,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:001388",
@@ -18831,9 +18831,9 @@
       "net_profit_2026_9m_100m": "0.2544",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 53.09,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301609",
@@ -18866,9 +18866,9 @@
       "net_profit_2026_9m_100m": "0.7666",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 43.96,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:688729",
@@ -18901,9 +18901,9 @@
       "net_profit_2026_9m_100m": "10.7272",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 651.7,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301557",
@@ -18936,9 +18936,9 @@
       "net_profit_2026_9m_100m": "0.3886",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 49.16,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920100",
@@ -19146,9 +19146,9 @@
       "net_profit_2026_9m_100m": "0.2349",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 40.36,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301632",
@@ -19181,9 +19181,9 @@
       "net_profit_2026_9m_100m": "-0.0006",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 46.5,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301479",
@@ -19216,9 +19216,9 @@
       "net_profit_2026_9m_100m": "0.9287",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 53.42,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920083",
@@ -19286,9 +19286,9 @@
       "net_profit_2026_9m_100m": "0.7469",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 61.87,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:688759",
@@ -19321,9 +19321,9 @@
       "net_profit_2026_9m_100m": "-1.5108",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 69.67,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301683",
@@ -19356,9 +19356,9 @@
       "net_profit_2026_9m_100m": "1.7175",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 56.33,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:001285",
@@ -19391,9 +19391,9 @@
       "net_profit_2026_9m_100m": "3.035",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 73.56,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920072",
@@ -19461,9 +19461,9 @@
       "net_profit_2026_9m_100m": "1.1834",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 71.31,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920059",
@@ -19531,9 +19531,9 @@
       "net_profit_2026_9m_100m": "3.7246",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 459.01,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920206",
@@ -19601,9 +19601,9 @@
       "net_profit_2026_9m_100m": "0.4784",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 404.89,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:603092",
@@ -19636,9 +19636,9 @@
       "net_profit_2026_9m_100m": "6.3111",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 139.36,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920306",
@@ -19706,9 +19706,9 @@
       "net_profit_2026_9m_100m": "0.2053",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 77.7,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920107",
@@ -19776,9 +19776,9 @@
       "net_profit_2026_9m_100m": "5.0095",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 133.2,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920188",
@@ -19846,9 +19846,9 @@
       "net_profit_2026_9m_100m": "2.3841",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 61.89,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:001399",
@@ -19881,9 +19881,9 @@
       "net_profit_2026_9m_100m": "25.8986",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 1132.58,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301601",
@@ -19916,9 +19916,9 @@
       "net_profit_2026_9m_100m": "-0.1409",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 19.18,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301682",
@@ -19951,9 +19951,9 @@
       "net_profit_2026_9m_100m": "2.1439",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 106.68,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920029",
@@ -20021,9 +20021,9 @@
       "net_profit_2026_9m_100m": "0.2076",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 195.67,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:603406",
@@ -20056,9 +20056,9 @@
       "net_profit_2026_9m_100m": "3.6395",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 97.0,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:603262",
@@ -20091,9 +20091,9 @@
       "net_profit_2026_9m_100m": "0.9854",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 57.32,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920200",
@@ -20161,9 +20161,9 @@
       "net_profit_2026_9m_100m": "6.7113",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 239.3,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:688795",
@@ -20196,9 +20196,9 @@
       "net_profit_2026_9m_100m": "0.377",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 1537.04,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:001382",
@@ -20231,9 +20231,9 @@
       "net_profit_2026_9m_100m": "0.588",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 62.75,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920218",
@@ -20301,9 +20301,9 @@
       "net_profit_2026_9m_100m": "0.845",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 91.77,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920082",
@@ -20406,9 +20406,9 @@
       "net_profit_2026_9m_100m": "1.5511",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 115.63,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920183",
@@ -20546,9 +20546,9 @@
       "net_profit_2026_9m_100m": "-0.012",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 46.56,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301531",
@@ -20581,9 +20581,9 @@
       "net_profit_2026_9m_100m": "1.1965",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 80.64,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920069",
@@ -20651,9 +20651,9 @@
       "net_profit_2026_9m_100m": "0.1853",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 79.11,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920288",
@@ -20756,9 +20756,9 @@
       "net_profit_2026_9m_100m": "0.4397",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 91.54,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920269",
@@ -20826,9 +20826,9 @@
       "net_profit_2026_9m_100m": "1.2553",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 25.45,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301688",
@@ -20861,9 +20861,9 @@
       "net_profit_2026_9m_100m": "1.3881",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 43.51,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920038",
@@ -21001,9 +21001,9 @@
       "net_profit_2026_9m_100m": "-1.0589",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 107.18,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:688635",
@@ -21036,9 +21036,9 @@
       "net_profit_2026_9m_100m": "0.4583",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 150.72,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920126",
@@ -21106,9 +21106,9 @@
       "net_profit_2026_9m_100m": "6.5066",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 63.76,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301275",
@@ -21141,9 +21141,9 @@
       "net_profit_2026_9m_100m": "4.8231",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 172.21,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301491",
@@ -21176,9 +21176,9 @@
       "net_profit_2026_9m_100m": "1.086",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 44.51,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920121",
@@ -21386,9 +21386,9 @@
       "net_profit_2026_9m_100m": "0.6399",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 28.47,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301636",
@@ -21421,9 +21421,9 @@
       "net_profit_2026_9m_100m": "0.1697",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 27.63,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920035",
@@ -21526,9 +21526,9 @@
       "net_profit_2026_9m_100m": "2.6088",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 100.11,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:603459",
@@ -21561,9 +21561,9 @@
       "net_profit_2026_9m_100m": "8.6037",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 412.3,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301575",
@@ -21596,9 +21596,9 @@
       "net_profit_2026_9m_100m": "0.9037",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 28.0,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920181",
@@ -21666,9 +21666,9 @@
       "net_profit_2026_9m_100m": "0.725",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 66.93,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:601091",
@@ -21701,9 +21701,9 @@
       "net_profit_2026_9m_100m": "4.9447",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 622.31,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:688802",
@@ -21736,9 +21736,9 @@
       "net_profit_2026_9m_100m": "6.3898",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 2029.43,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920076",
@@ -21841,9 +21841,9 @@
       "net_profit_2026_9m_100m": "1.9901",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 154.56,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301665",
@@ -21876,9 +21876,9 @@
       "net_profit_2026_9m_100m": "3.5144",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 85.77,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301699",
@@ -21911,9 +21911,9 @@
       "net_profit_2026_9m_100m": "4.4282",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 209.45,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920085",
@@ -21981,9 +21981,9 @@
       "net_profit_2026_9m_100m": "0.8002",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 27.04,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920093",
@@ -22051,9 +22051,9 @@
       "net_profit_2026_9m_100m": "0.5597",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 24.65,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301535",
@@ -22086,9 +22086,9 @@
       "net_profit_2026_9m_100m": "0.6959",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 52.31,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920101",
@@ -22226,9 +22226,9 @@
       "net_profit_2026_9m_100m": "1.3596",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 41.03,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920081",
@@ -22331,9 +22331,9 @@
       "net_profit_2026_9m_100m": "1.5609",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 41.22,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920166",
@@ -22471,9 +22471,9 @@
       "net_profit_2026_9m_100m": "3.1893",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 96.39,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:603382",
@@ -22506,9 +22506,9 @@
       "net_profit_2026_9m_100m": "0.7731",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 29.92,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920296",
@@ -22576,9 +22576,9 @@
       "net_profit_2026_9m_100m": "1.3301",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 111.88,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920065",
@@ -22646,9 +22646,9 @@
       "net_profit_2026_9m_100m": "18.6615",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 948.34,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301666",
@@ -22681,9 +22681,9 @@
       "net_profit_2026_9m_100m": "25.4337",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 1191.66,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301449",
@@ -22716,9 +22716,9 @@
       "net_profit_2026_9m_100m": "0.733",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 30.28,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301590",
@@ -22751,9 +22751,9 @@
       "net_profit_2026_9m_100m": "-0.645",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 31.07,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301513",
@@ -22786,9 +22786,9 @@
       "net_profit_2026_9m_100m": "0.0156",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 65.02,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:688785",
@@ -22821,9 +22821,9 @@
       "net_profit_2026_9m_100m": "0.9151",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 161.2,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920176",
@@ -22891,9 +22891,9 @@
       "net_profit_2026_9m_100m": "-1.0767",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 91.63,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301716",
@@ -22926,9 +22926,9 @@
       "net_profit_2026_9m_100m": "3.3079",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 227.01,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920222",
@@ -23171,9 +23171,9 @@
       "net_profit_2026_9m_100m": "-3.0245",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 97.87,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920178",
@@ -23241,9 +23241,9 @@
       "net_profit_2026_9m_100m": "3.1245",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 303.94,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:001381",
@@ -23276,9 +23276,9 @@
       "net_profit_2026_9m_100m": "2.2504",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 170.76,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:688820",
@@ -23311,9 +23311,9 @@
       "net_profit_2026_9m_100m": "6.3582",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 1463.66,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:001257",
@@ -23346,9 +23346,9 @@
       "net_profit_2026_9m_100m": "10.1646",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 308.99,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301629",
@@ -23381,9 +23381,9 @@
       "net_profit_2026_9m_100m": "0.0441",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 75.94,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:001312",
@@ -23416,9 +23416,9 @@
       "net_profit_2026_9m_100m": "1.6462",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 37.45,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920098",
@@ -23521,9 +23521,9 @@
       "net_profit_2026_9m_100m": "-14.01",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 865.26,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:603395",
@@ -23556,9 +23556,9 @@
       "net_profit_2026_9m_100m": "0.0574",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 51.92,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301667",
@@ -23591,9 +23591,9 @@
       "net_profit_2026_9m_100m": "-0.5094",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 47.41,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:688449",
@@ -23626,9 +23626,9 @@
       "net_profit_2026_9m_100m": "3.264",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 170.2,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:603120",
@@ -23661,9 +23661,9 @@
       "net_profit_2026_9m_100m": "0.4826",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 36.87,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920128",
@@ -23731,9 +23731,9 @@
       "net_profit_2026_9m_100m": "0.3081",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 92.76,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:603352",
@@ -23766,9 +23766,9 @@
       "net_profit_2026_9m_100m": "0.9977",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 50.05,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920011",
@@ -23836,9 +23836,9 @@
       "net_profit_2026_9m_100m": "1.1299",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 51.81,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920162",
@@ -23906,9 +23906,9 @@
       "net_profit_2026_9m_100m": "1.1051",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 35.9,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:688837",
@@ -23941,9 +23941,9 @@
       "net_profit_2026_9m_100m": "-2.9593",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 153.34,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:603400",
@@ -23976,9 +23976,9 @@
       "net_profit_2026_9m_100m": "0.5804",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 42.42,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301687",
@@ -24011,9 +24011,9 @@
       "net_profit_2026_9m_100m": "0.9198",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 51.7,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301697",
@@ -24046,9 +24046,9 @@
       "net_profit_2026_9m_100m": "1.083",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 72.93,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301656",
@@ -24081,9 +24081,9 @@
       "net_profit_2026_9m_100m": "-0.4735",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 319.87,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920180",
@@ -24151,9 +24151,9 @@
       "net_profit_2026_9m_100m": "1.647",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 89.66,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:688808",
@@ -24186,9 +24186,9 @@
       "net_profit_2026_9m_100m": "20.0592",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 963.19,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920005",
@@ -24256,9 +24256,9 @@
       "net_profit_2026_9m_100m": "-0.3829",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 35.38,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301585",
@@ -24291,9 +24291,9 @@
       "net_profit_2026_9m_100m": "0.4899",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 27.3,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920045",
@@ -24361,9 +24361,9 @@
       "net_profit_2026_9m_100m": "1.5141",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 597.19,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:688813",
@@ -24396,9 +24396,9 @@
       "net_profit_2026_9m_100m": "1.6219",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 116.21,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:688781",
@@ -24431,9 +24431,9 @@
       "net_profit_2026_9m_100m": "0.3107",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 488.0,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:001396",
@@ -24466,9 +24466,9 @@
       "net_profit_2026_9m_100m": "0.429",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 28.65,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920196",
@@ -24536,9 +24536,9 @@
       "net_profit_2026_9m_100m": "1.6482",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 91.79,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301602",
@@ -24571,9 +24571,9 @@
       "net_profit_2026_9m_100m": "0.4298",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 59.88,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:301717",
@@ -24606,9 +24606,9 @@
       "net_profit_2026_9m_100m": "1.8612",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 313.7,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:603175",
@@ -24641,9 +24641,9 @@
       "net_profit_2026_9m_100m": "-1.487",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 380.87,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920285",
@@ -24746,9 +24746,9 @@
       "net_profit_2026_9m_100m": "1.2364",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 73.06,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920229",
@@ -24816,9 +24816,9 @@
       "net_profit_2026_9m_100m": "1.8113",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 284.17,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:688750",
@@ -24851,9 +24851,9 @@
       "net_profit_2026_9m_100m": "0.7819",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 60.82,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920071",
@@ -24921,9 +24921,9 @@
       "net_profit_2026_9m_100m": "1.267",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 74.16,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:603248",
@@ -24956,9 +24956,9 @@
       "net_profit_2026_9m_100m": "0.6599",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 76.91,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920158",
@@ -25061,9 +25061,9 @@
       "net_profit_2026_9m_100m": "2.6175",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 160.74,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:688825",
@@ -25096,9 +25096,9 @@
       "net_profit_2026_9m_100m": "1320.4005",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 26026.76,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920238",
@@ -25166,9 +25166,9 @@
       "net_profit_2026_9m_100m": "2.2208",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 52.58,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920055",
@@ -25271,9 +25271,9 @@
       "net_profit_2026_9m_100m": "7.1445",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 188.44,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:601123",
@@ -25306,9 +25306,9 @@
       "net_profit_2026_9m_100m": "5.6522",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 173.71,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:688835",
@@ -25341,9 +25341,9 @@
       "net_profit_2026_9m_100m": "1.5985",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 291.86,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:920156",
@@ -25411,9 +25411,9 @@
       "net_profit_2026_9m_100m": "0.0562",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 24.19,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     },
     {
       "id": "STOCK:603202",
@@ -25446,9 +25446,9 @@
       "net_profit_2026_9m_100m": "4.022",
       "financial_source_url": "https://data.eastmoney.com/bbsj/202512/yjbb.html",
       "financial_updated": "2026-11-16",
-      "market_cap_100m_cny": "",
-      "market_cap_as_of": "",
-      "market_cap_source_url": ""
+      "market_cap_100m_cny": 80.42,
+      "market_cap_as_of": "2026-11-16",
+      "market_cap_source_url": "https://qt.gtimg.cn/"
     }
   ],
   "events": [
