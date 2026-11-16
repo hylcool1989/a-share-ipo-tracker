@@ -31,9 +31,16 @@ jobs:
           python-version: '3.11'
       - name: Install dependencies
         run: pip install -r requirements.txt
-      - name: Update data
+      - name: Update data (allow explicitly flagged partial sources)
         id: update
-        run: python update.py
+        run: |
+          python update.py || {
+            if [ ! -s dashboard/ipo_data.json ]; then
+              echo "::error::Both IPO sources unavailable; no verified data to publish"
+              exit 1
+            fi
+            echo "::warning::One IPO source failed; published data will show a source-error warning"
+          }
       - name: Commit snapshots
         run: |
           git config user.name 'github-actions[bot]'
