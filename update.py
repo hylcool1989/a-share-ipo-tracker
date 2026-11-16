@@ -21,22 +21,22 @@ def val(x):
     return "" if s.lower() in ("nan","nat","none","null","--","-","<na>") else s
 
 def dt(x):
-    m=re.search(r"(\\d{4})[-/.]?(\\d{1,2})[-/.]?(\\d{1,2})",val(x))
+    m=re.search(r"(\d{4})[-/.]?(\d{1,2})[-/.]?(\d{1,2})",val(x))
     if not m:return ""
     try:return date(*map(int,m.groups())).isoformat()
     except ValueError:return ""
 
 def code(x):
-    m=re.search(r"(?<!\\d)(\\d{6})(?!\\d)",val(x))
+    m=re.search(r"(?<!\d)(\d{6})(?!\d)",val(x))
     if m:return m.group(1)
     s=val(x)
-    return str(int(float(s))).zfill(6) if re.fullmatch(r"\\d{1,6}(?:\\.0)?",s) else ""
+    return str(int(float(s))).zfill(6) if re.fullmatch(r"\d{1,6}(?:\.0)?",s) else ""
 
 def norm(x):
     s=val(x).replace("（","(").replace("）",")")
-    s=re.sub(r"\\([^)]*\\)","",s)
+    s=re.sub(r"\([^)]*\)","",s)
     s=re.sub(r"(股份有限公司|有限责任公司|有限公司|股份公司)$","",s)
-    return re.sub(r"[^\\w\\u4e00-\\u9fff]","",s).lower()
+    return re.sub(r"[^\w\u4e00-\u9fff]","",s).lower()
 
 def get_board(x):
     s=val(x)
