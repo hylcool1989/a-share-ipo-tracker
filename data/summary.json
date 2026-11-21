@@ -1,6 +1,6 @@
 {
-  "as_of": "2026-11-21",
-  "scope_start": "2024-11-21",
+  "as_of": "2026-11-22",
+  "scope_start": "2024-11-22",
   "total": 724,
   "counts": {
     "审核中": 233,
@@ -16,7 +16,7 @@
     "audit": true
   },
   "source_errors": {},
-  "new_events_today": 14,
+  "new_events_today": 0,
   "sources": {
     "issuance": "https://data.eastmoney.com/xg/xg/default_2.html",
     "audit": "https://data.eastmoney.com/xg/ipo/"
